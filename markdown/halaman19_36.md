@@ -1,5 +1,4 @@
-#**BAB2**
-#**PENYELENGGARAAN MATA KULIAH**#
+#**BAB2** **PENYELENGGARAAN MATA KULIAH**#
 ___
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan **matakuliah pilihan.** Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompok**matakuliah umum** (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora.
 
@@ -11,7 +10,7 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR.**
 
-##**2.1 Matakuliah Pilihan**##
+##**Matakuliah Pilihan**##
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
 1.	Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
 2.	Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
@@ -21,18 +20,18 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 1.	Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2.	Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-##**2.2 Matakuliah Prasyarat**##
+##**Matakuliah Prasyarat**##
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 1.	**Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
 2.	**Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
 3.	Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
-##**2.3 Matakuliah Layanan**##
+###**Matakuliah Layanan**###
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
-###2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA###
+####KULIAH LAYANAN PROGRAM STUDI MATEMATIKA####
 **Kode**|**Mata Kuliah**|**SKS**|**Prodi yang dilayani**
 :---:|:---:|:---:|:---:
 AMS100|Matematika Informatika|4|Teknik Informatika
@@ -50,7 +49,7 @@ AMS102|Matematika 2|3|Teknik Sipil
 AMS201|Matematika 3|3|Teknik Sipil
 AMS202|Matematika 4|3|Teknik Sipil
 
-###2.3.2KULIAH LAYANAN PROGRAM STUDI FISIKA###
+####KULIAH LAYANAN PROGRAM STUDI FISIKA####
 **Kode**|**Mata Kuliah**|**SKS**|**Prodi yang dilayani**
 :---:|:---:|:---:|:---:
 AMS181|Fisika Dasar|4|Matematika
@@ -64,10 +63,10 @@ AMS188|Praktikum Fisika Dasar|1|Teknik Sipil
 AMS189|Praktikum Fisika Dasar|1|Teknik Indstri
 FFT113|Kosologi|2|Filsafat
 
-###2.3.3  KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA###
+####KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA####
 **Kode**|**Mata Kuliah**|**SKS**|**Prodi yang dilayani**
 :---:|:---:|:---:|:---:
 AKS144|Pemrograman Komputer|3|Matematika
 
-##2.4 Matakuliah Umum##
+###Matakuliah Umum###
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
