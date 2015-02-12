@@ -12,9 +12,12 @@ Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untu
 
 ##**Matakuliah Pilihan**##
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
-1.	Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
-2.	Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
-3.	Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+
+1.Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau     Matematika Industri).
+
+2.Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
+
+3.Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
 
 Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 1.	Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
@@ -24,7 +27,9 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 1.	**Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
+
 2.	**Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
+
 3.	Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
 ###**Matakuliah Layanan**###
