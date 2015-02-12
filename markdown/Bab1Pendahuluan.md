@@ -74,7 +74,10 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 Sasaran FTIS adalah sebagai berikut :
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
+
 2.	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
+
 3.	Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
+
 4.	Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 
