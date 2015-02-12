@@ -70,7 +70,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-#### SASARAN FTIS
+#### Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
