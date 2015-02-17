@@ -47,11 +47,11 @@ Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan mart
 
 ####Misi FTIS####
 
-Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
+Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:  
+
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
 
-    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
-    
+    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.  
     b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
     
 2.	Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
@@ -75,6 +75,7 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 #### Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut :
+
 1.	Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
 
 2.	Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
@@ -97,7 +98,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 # 
 #####Senat FTIS
 # 
-    Ketua                               :Agus Sukmana, SSi, MSc 
+    Ketua                               : Agus Sukmana, SSi, MSc 
     Sekretaris                          : Philips Nicolas Gunawidjaja, BSc, PhD
     Dekanat                             : Dekan Paulus Cahyono Tjiang, SSi, PhD.
     WD 1 (Akademik)                     : Dr. Thomas Anung Basuki
@@ -106,8 +107,8 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 #####Program Studi Matematika
 # 
-    Ketua	    : Dr. Ferry Jaya Permana
-    Sekretaris	: Livia Owen, SSi, MSi
+    Ketua                               : Dr. Ferry Jaya Permana
+    Sekretaris                          : Livia Owen, SSi, MSi
 
 #####Program Studi Fisika
 # 
@@ -117,18 +118,18 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 #####Program Studi Teknik Informatika
 # 
-    Ketua               : Dr. Thomas Anung Basuki
-    Sekretaris          : Lionov, SKom, MSc
-    KaLab. Komputasi    : Chandra Wijaya, ST, MT
+    Ketua                               : Dr. Thomas Anung Basuki
+    Sekretaris                          : Lionov, SKom, MSc
+    KaLab. Komputasi                    : Chandra Wijaya, ST, MT
 
 #####Tata Usaha
 # 
-    Kepala                          :Pranyoto Teguh Imanto
-    Kasubag Akademik                :Petrus Purnomo
-    Kasubag Keuangan & Kepegawaian  :Budi Santoso
-    Kasubag Kemahasiswaan & Alumni  :Fransiscus Sudarno
-    Kasubag Umum & Perlengkapan     :Walip, A.Md
-    Staf Akademik                   :Rikie Setiawan, S.AB.
+    Kepala                              : Pranyoto Teguh Imanto
+    Kasubag Akademik                    : Petrus Purnomo
+    Kasubag Keuangan & Kepegawaian      : Budi Santoso
+    Kasubag Kemahasiswaan & Alumni      : Fransiscus Sudarno
+    Kasubag Umum & Perlengkapan         : Walip, A.Md
+    Staf Akademik                       : Rikie Setiawan, S.AB.
 # 
 # 
 # 
