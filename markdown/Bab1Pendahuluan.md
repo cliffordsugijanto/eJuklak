@@ -145,15 +145,15 @@ Email: bensupra@unpar.ac.id
 
 #####Lektor Kepala
 # 
-1. Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):  
+2. Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):  
 Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
 Email: asukmana@unpar.ac.id. 
 
-2. Aloysius Rusli, Dr. (Leeds University, UK):   
+3. Aloysius Rusli, Dr. (Leeds University, UK):   
 Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.  
 Email: arusli@unpar.ac.id
 
-3. Benny Yong, SSi. (UNPAR), MSi. (ITB):  
+4. Benny Yong, SSi. (UNPAR), MSi. (ITB):  
 Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.   
 Email: benny_y@unpar.ac.id. 
 
