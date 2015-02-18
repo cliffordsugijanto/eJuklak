@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.example.ejuklakapp;
+package com.example.ejuklak;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
