@@ -92,13 +92,13 @@ Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusa
 Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri. 
 
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
-# 
-# 
+
+
 #### Pengelola Fakultas
-# 
-# 
+
+
 #####Senat FTIS
-# 
+
     Ketua                               : Agus Sukmana, SSi, MSc 
     Sekretaris                          : Philips Nicolas Gunawidjaja, BSc, PhD
     Dekanat                             : Dekan Paulus Cahyono Tjiang, SSi, PhD.
@@ -107,44 +107,44 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     WD III (Kemahasiswaan dan Alumni)   : Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
 
 #####Program Studi Matematika
-# 
+
     Ketua                               : Dr. Ferry Jaya Permana
     Sekretaris                          : Livia Owen, SSi, MSi
 
 #####Program Studi Fisika
-# 
+
     Ketua                               : Philips Nicolas Gunawidjaja, BSc, PhD
     KaLab. Fisika Dasar                 : Risti Suryantari, S.Si., M.Si.
     KaLab. Elektronika & Fisika Lanjut  : Janto V. Sulungbudi, Drs.
 
 #####Program Studi Teknik Informatika
-# 
+
     Ketua                               : Dr. Thomas Anung Basuki
     Sekretaris                          : Lionov, SKom, MSc
     KaLab. Komputasi                    : Chandra Wijaya, ST, MT
 
 #####Tata Usaha
-# 
-    Kepala                              : Pranyoto Teguh Imanto
-    Kasubag Akademik                    : Petrus Purnomo
-    Kasubag Keuangan & Kepegawaian      : Budi Santoso
-    Kasubag Kemahasiswaan & Alumni      : Fransiscus Sudarno
-    Kasubag Umum & Perlengkapan         : Walip, A.Md
-    Staf Akademik                       : Rikie Setiawan, S.AB.
-# 
-# 
-# 
-#### Daftar Dosen FTIS
+
+Kepala                              : Pranyoto Teguh Imanto  
+Kasubag Akademik                    : Petrus Purnomo  
+Kasubag Keuangan & Kepegawaian      : Budi Santoso  
+Kasubag Kemahasiswaan & Alumni      : Fransiscus Sudarno  
+Kasubag Umum & Perlengkapan         : Walip, A.Md  
+Staf Akademik                       : Rikie Setiawan, S.AB.'
+
+
+
+#### Daftar Dosen FTIS####
 Berikut adalah daftar nama 38 dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
-#####Guru Besar
+#####Guru Besar######
 
 1. Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):  
 Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.   
 Email: bensupra@unpar.ac.id
 
-#####Lektor Kepala
-# 
+#####Lektor Kepala#####
+
 1. Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):  
 Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
 Email: asukmana@unpar.ac.id. 
