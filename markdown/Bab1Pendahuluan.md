@@ -180,7 +180,7 @@ Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.
 Email: sylvia@unpar.ac.id
 
 * Marcus Wono Setya Budhi, PhD (Univ. of Illinois – USA):  
-Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.
+Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
 Email: wono@math.itb.ac.id
 
 * Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):  
@@ -194,7 +194,8 @@ Matematika Diskret, Jaringan Syaraf Tiruan.
 Email: cheni@unpar.ac.id
 
 * Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.  
-Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna
+Email: erwinna@unpar.ac.id.  
+Website: http://www.unpar.ac.id/erwinna  
 
 * Liem Chin, SSi.(UNPAR), MSi.(ITB):   
 Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
