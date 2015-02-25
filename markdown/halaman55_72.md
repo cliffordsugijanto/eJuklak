@@ -1,3 +1,5 @@
+1. Dilarang keras melakukan kecurangan dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+a. Melihat berkas ujian milik peserta ujian lain.
 b. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain.     
 c. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun.    
 d. **Melihat** buku ajar, diktat, atau catatan d alam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
@@ -6,6 +8,8 @@ e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulat
 10.Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 
 11.Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
+
+// lanjutan maman nomer 1 - 11
 
 
 ###Sanksi
