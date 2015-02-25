@@ -1,7 +1,7 @@
-b.  **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain  
-c.  **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun    
-d.	**Melihat** buku ajar, diktat, atau catatan d alam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)  
-e.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+b. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain.     
+c. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun.    
+d. **Melihat** buku ajar, diktat, atau catatan d alam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka)
+e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 
 10.Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 
@@ -111,16 +111,13 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
+1. Perkuliahan
+* Komponen kegiatan : Pelaksanaan Tugas dan tatap muka
 
 
 
-#### BENTUK KEGIATAN	| KOMPONEN KEGIATAN	| KOMPONEN EVALUASI | ANGKA	% |
-Perkuliahan	Pelaksanaan Tugas	Angka Rata-rata Tugas (ART)	20% - 40%
-	Tatap Muka	Angka Ujian Tengah Semester (AUTS)	30% - 50%
-		Angka Ujian Akhir Semester (AUAS)	30% - 50%
-Seminar/ Studi Mandiri	Penyajian, Diskusi/
-Partisipasi,Penyusunan Makalah /Laporan	Diserahkan ke tiap fakultas atau prodi.	Diserahkan ke tiap fakultas atau prodi.
-Skripsi	Penyusunan dan Penyajian	Diserahkan ke tiap fakultas atau prodi.	Diserahkan ke tiap fakultas atau prodi.
+
+
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
