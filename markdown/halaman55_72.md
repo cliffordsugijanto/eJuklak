@@ -116,12 +116,26 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
 1. Perkuliahan
-* Komponen kegiatan : Pelaksanaan Tugas dan tatap muka
+	* Komponen kegiatan : Pelaksanaan Tugas dan tatap muka
+	* Komponen evaluasi : 
+		* Untuk Pelaksanaan tugas : 
+			* Angka : ART
+			* Persentase : 20-40
+		* Untuk Tatap muka : 
+			* Angka : AUTS dan AUAS
+			* Persentase : 30-50
 
-
-
-
-
+2. Seminar/Studi mandiri
+	* Komponen kegiatan : Penyajian, Diskusi/Partisipasi,Penyusunan Makalah /Laporan
+	* Komponen evaluasi : 
+		* Angka : Diserahkan ke falkutas
+		* Persentase : Diserahkan ke falkutas
+	
+3. Skripsi
+	* Komponen kegiatan : Penyusunan dan penyajian
+	* Komponen evaluasi : 
+		* Angka : Diserahkan ke falkutas
+		* Persentase : Diserahkan ke falkutas
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
