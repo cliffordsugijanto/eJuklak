@@ -1,4 +1,4 @@
-1. Dilarang keras melakukan kecurangan dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+9. Dilarang keras melakukan kecurangan dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
 a. Melihat berkas ujian milik peserta ujian lain.
 b. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain.     
 c. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun.    
@@ -210,8 +210,7 @@ IPK|Yudisium|
 :---:|:---|
 2,00 – 2,75|Memuaskan
 2,76 – 3,50|Sangat Memuaskan
-3,51 – 4,00|Dengan Pujian (masa studi terpakai ≤ 9 semester)
-	   |Sangat Memuaskan (masa studi terpakai > 9 semester)
+3,51 – 4,00|Dengan Pujian (masa studi terpakai ≤ 9 semester) atau Sangat Memuaskan (masa studi terpakai > 9 semester)
 
 
 ##Kemampuan Bahasa Inggris Mahasiswa UNPAR
