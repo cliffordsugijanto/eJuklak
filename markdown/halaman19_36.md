@@ -125,6 +125,161 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MAS123 | Pemecahan Masalah Matematika |       | 3   |
 | AMS151 | Statistika Elementer         |       | 4   |
 | AMS181 | Fisika Dasar                 | R,P   | 4   |
-| MKU    | Logika                       | R     | 2   |
+| MKU012 | Logika                       | R     | 2   |
 | MKU010 | Bahasa Inggris               |       | 2   |
-|        |                              | Total | 19  |
+|        |                              | TOTAL | 19  |
+**Semester 2**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS122 | Kalkulus 2                   |       | 4   |
+| MAS124 | Matematika Diskret           |       | 4   |
+| AMS126 | Aljabar Matriks              |       | 4   |
+| AMS112 | Pemrograman Komputer         |       | 3   |
+| MKU011 | Estetika                     |       | 2   |
+| MKU003 | Agama Katolik +              |       | 2   |
+| MKU004 | Fenomologi Agama +           |       |     |
+|        |                              | TOTAL | 19  |
+**Semester 3**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS222 | Kalkulus Vektor              |   R   | 4   |
+| MAS252 | Teori Suku Bunga             |       | 3   |
+| AMS261 | Teori Peluang                |       | 4   |
+| AMS272 | Komputasi Statistika         |       | 2   |
+| MKU273 | Metoda Matematika            |       | 3   |
+| MKU273 | Etika                        |   R   | 2   |
+|        |                              | TOTAL | 18  |
+**Semester 4**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS222 | Aljabar Linear               |   R   | 4   |
+| MAS252 | Statistika Matematika        |       | 4   |
+| AMS261 | Optimasi                     |       | 4   |
+| AMS272 | Persamaan Diferensial Biasa  |       | 4   |
+| MKU273 | Komputasi Matematika         |       | 2   |
+|        |                              | TOTAL | 18  |
+**Semester 5**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS321 | Fungsi Kompleks              |       | 4   |
+| MAS351 | Proses Stokastik             |       | 4   |
+| AMS373 | Metoda Numerik               |       | 3   |
+| MKU002 | Pendidikan Kewarganegaraan   |       | 2   |
+| ABCXYZ | Pilihan                      |       | 6   |
+|        |                              | TOTAL | 19  |
+**Semester 6**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS322 | Analisis Real                |   R   | 4   |
+| MKU009 | Bahasa Indonesia             |       | 2   |
+| ABCXYZ | Pilihan                      |       | 12  |
+|        |                              | TOTAL | 18  |
+**Semester 7**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS490 | Seminar                      |       | 3   |
+| AMS491 | Pemodelan Matematika         |       | 4   |
+| MKU001 | Pancasila                    |       | 2   |
+| ABCXYZ | Pilihan                      |       | 9   |
+|        |                              | TOTAL | 18  |
+**Semester 8**
+
+| KODE   | NAMA                         | APR   | SKS |
+|--------|------------------------------|-------|-----|
+| AMS499 | Analisis Real                |       | 6   |
+| ABCXYZ | Pilihan                      |       | 9   |
+|        |                              | TOTAL | 15  |
+
+####MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
+Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
+
+Kelompok Bidang Kajian: Rekayasa Keuangan  
+**Matematika Asuransi**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS330 | Pengantar Matematika Asuransi| 3   |
+| AMS331 | Matematika Asuransi          | 3   |
+| AMS431 | Metoda Statistika Asuransi   | 3   |
+| AMS432 | Teori Risiko                 | 3   |
+| AMS430 | Kapita Selekta Matematika Asuransi| 3   |
+**Matematika Keuangan**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS341 | Komputasi Keuangan           | 3   |
+| AMS342 | Matematika Keuangan          | 3   |
+| AMS343 | Analisis Deret Waktu         | 3   |
+| AMS441 | Teori Manajemen Investasi    | 3   |
+| AMS442 | Ekonometrika Keuangan        | 3   |
+| AMS440 | Kapita Selekta Matematika Keuangan| 3   |
+
+Kelompok Bidang Kajian: Rekayasa Keuangan
+**Optimasi dan Teori Kontrol**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS361 | Pemrograman NonLinear        | 3   |
+| AMS461 | Kontrol Optimum              | 3   |
+| AMS462 | Kontrol Linear               | 3   |
+**Statistika & Peneletian Operasional**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS352 | Pemrograman Stokastik        | 3   |
+| AMS353 | Pengendalian Mutu            | 3   |
+| AMS354 | Model Statistika             | 3   |
+| AMS451 | Teori Permainan              | 3   |
+| AMS452 | Proyek Pemodelan             | 3   |
+| AMS453 | Statistika Multivariat       | 3   |
+| AMS454 | Statistika Non Parameter     | 3   |
+| AMS455 | Perancangan Percobaan        | 3   |
+| AMS456 | Teori Antrian                | 3   |
+| AMS457 | Kendalan                     | 3   |
+| AMS350 | Kapita Selekta Statistika    | 3   |
+| AMS450 | Kapita Selekta Penelitian Operasional| 3   |
+**Matematika Terapan**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS471 | Sistem Dinamik                    | 3 |
+| AMS472 | Matematika Biologi                | 3 |
+| AMS371 | Prsamaan Diferensial Parsial      | 3 |
+| AMS372 | Metoda Matematika Lanjut          | 3 |
+| AMS374 | Analisis Numerik                  | 3 |
+| AMS470 | Kapita Selekta Matematika Terapan | 3 |
+**Lain-lain**
+
+| KODE   | NAMA                         | SKS |
+|--------|------------------------------|-----|
+| AMS471 | Sistem Dinamik                    | 3 |
+| AMS472 | Matematika Biologi                | 3 |
+| AMS371 | Prsamaan Diferensial Parsial      | 3 |
+| AMS372 | Metoda Matematika Lanjut          | 3 |
+| AMS374 | Analisis Numerik                  | 3 |
+| AMS470 | Kapita Selekta Matematika Terapan | 3 |
+| AMS480 | Kapita Selekta Pembelajaran Matematika | 3 |
+| AMS381 | Inovasi Pembelajaran Matematika        | 3 |
+| AMS382 | Pembelajaran Matematika Sekolah        | 3 |
+| AMS481 | Kerja Praktek                          | 3 |
+
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
+
+####PETA DAN PRASYARAT MATA KULIAH
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+
+####2.5.4	DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH|
+| AMS121  | KALKULUS 1 (CALCULUS 1)|
+| -       | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
+| AMS123  | PEMECAHAN MASALAH MATEMATIKA (MATHEMATICAL PROBLEM SOLVING)|
+| -       | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.
+|AMS151|STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)
+|-|Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.
+|
