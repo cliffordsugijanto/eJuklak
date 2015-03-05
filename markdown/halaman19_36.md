@@ -331,3 +331,211 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 ###Kurikulum Program Studi Fisika
 ####Susunan Matakuliah
+**Semester 1**
+
+| KODE   | NAMA                     | APR   | SKS |
+|--------|--------------------------|-------|-----|
+| APS101 | Pengenalan Program Studi |       | 3   |
+| APS103 | Ketrampilan Fisika       |       | 2   |
+| APS105 | Fisika Dasar 1           | R,P   | 3   |
+| APS107 | Fisika Matematika 1      | P     | 3   |
+| ICE109 | Kimia Dasar              |       | 2   |
+| MKU011 | Estetika                 |       | 2   |
+|        |                          | TOTAL | 19  |
+**Semester 2**
+
+| KODE   | NAMA                | APR   | SKS |
+|--------|---------------------|-------|-----|
+| APS106 | Fisika Dasar 2      | R,P   | 3   |
+| APS108 | Fisika Matematika 2 | R     | 4   |
+| APS112 | Mekanika            | R     | 3   |
+| APS124 | Fisika Modern       |       | 3   |
+| APS132 | Fisika Komputasi    | P     | 3   |
+| MKU012 | Logika              |       | 2   |
+|        |                     | TOTAL | 19  |
+**Semester 3**
+
+| KODE           | NAMA                              | APR   | SKS |
+|----------------|-----------------------------------|-------|-----|
+| APS207         | Fisika Matematika 3               | R     | 4   |
+| APS213         | Gelombang                         | R     | 3   |
+| APS215         | Fisika Thermal                    | R     | 3   |
+| APS225         | Lab. Fisika Modern                | P     | 3   |
+| APS233         | Elektronika 1                     | P     | 3   |
+| MKU003/ MKU004 | Agama Katolik/ Fenomenologi Agama |       | 2   |
+|                |                                   | TOTAL | 19  |
+**Semester 4**
+
+| KODE   | NAMA                | APR   | SKS |
+|--------|---------------------|-------|-----|
+| APS204 | Projek Bersama      |       | 2   |
+| APS208 | Fisika Matematika 4 | R     | 4   |
+| APS216 | Fisika Statistik    | R     | 3   |
+| APS222 | Listrik Magnet      | R     | 4   |
+| APS234 | Elektronika 2       | P     | 3   |
+| MKU010 | Bahasa Inggris      |       | 2   |
+|        |                     | TOTAL | 18  |
+**Semester 5**
+
+| KODE   | NAMA                       | APR   | SKS |
+|--------|----------------------------|-------|-----|
+| APS323 | Elektrodinamika            | R     | 3   |
+| APS327 | Fisika Kuantum             | R     | 4   |
+| APS335 | Lab. Fisika Instrumentasi  | P     | 3   |
+| APS341 | Pengantar Fisika Nuklir    |       | 3   |
+| MKU008 | Etika                      |       | 2   |
+|        | Mata Kuliah Pilihan        |       | 3   |
+|        |                            | TOTAL | 18  |
+**Semester 6**
+
+| KODE   | NAMA                      | APR   | SKS |
+|--------|---------------------------|-------|-----|
+| APS304 | Teknik Presentasi         |       | 2   |
+| APS328 | Mekanika Kuantum          |       | 3   |
+| APS342 | Pengantar Fisika Material |       | 3   |
+| APS348 | Optika                    |       | 3   |
+| APS392 | Seminar                   |       | 2   |
+| MKU009 | Bahasa Indonesia          |       | 2   |
+|        | Mata Kuliah Pilihan       |       | 3   |
+|        |                           | TOTAL | 19  |
+**Semester 7**
+
+| KODE   | NAMA                | APR   | SKS |
+|--------|---------------------|-------|-----|
+| APS497 | Tugas Akhir 1       |       | 4   |
+| MKU001 | Pancasila           |       | 2   |
+| MKU002 | Kewarganegaraan     |       | 2   |
+|        | Mata Kuliah Pilihan |       | 9   |
+|        |                     | TOTAL | 17  |
+**Semester 8**
+
+| KODE   | NAMA                | APR   | SKS |
+|--------|---------------------|-------|-----|
+| APS402 | Etika Profesi       |       | 2   |
+| APS498 | Tugas Akhir 2       |       | 4   |
+| SAB315 | Kewirausahaan       |       | 3   |
+|        | Mata Kuliah Pilihan |       | 9   |
+|        |                     | TOTAL | 18  |
+Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+
+| **No** | **Kelompok Mata Kuliah**                                             |
+|--------|----------------------------------------------------------------------|
+| 1      | Fisika Teoretik (Mekanika, Thermodinamika, Fisika,Matematika Lanjut) |
+| 2      | Fisika Teoretik (Fisika Modern, Elektromagnetik,,Kuantum)            |
+| 3      | Fisika Komputasi, Elektronika, dan Instrumentasi                     |
+| 4      | Fisika Material dan Optika                                           |
+| 5      | Biofisika                                                            |
+| 6      | Fisika Bumi                                                          |
+| 7      | Astrofisika                                                          |
+| 8      | Matakuliah Layanan                                                   |
+| 9      | Seminar dan skripsi                                                  |
+| 0      | Kuliah Dasar, Keterampilan Umum, Lain-Lain                           |
+####Matakuliah Pilihan Program Studi Fisika
+Lain-lain
+
+| KODE   | NAMA                    | SKS |
+|--------|-------------------------|-----|
+| APS301 | Filsafat Sains          | 2   |
+| APS302 | Dunia Digital dan Sains | 2   |
+| APS303 | Didaktika Umum          | 3   |
+Kelompok Fisika Teoretik
+
+| KODE   | NAMA                          |SKS|
+|--------|-------------------------------|---|
+| APS311 | Dinamika Fluida               | 3 |
+| APS411 | Mekanika Hamiltonian          | 3 |
+| APS317 | Fisika Matematika Lanjut      | 3 |
+| APS318 | Pemodelan Matematika          | 3 |
+| APS418 | KapSel. Fisika Matematika     | 3 |
+| APS424 | Teori Relativitas             | 3 |
+| APS426 | Komputasi Kuantum             | 3 |
+| APS427 | Mekanika Kuantum Relativistik | 3 |
+| APS428 | Teori Medan Kuantum           | 3 |
+| APS429 | KapSel. Fisika Teori          | 3 |
+Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+
+| KODE   | NAMA                             | SKS |
+|--------|----------------------------------|-----|
+| APS331 | Pemodelan Matematika Gejala Alam | 3   |
+| APS332 | KapSel. Fisika Komputasi         | 3   |
+| APS336 | Instrumentasi Berbasis Komputer  | 3   |
+| APS435 | Pengantar Kontrol Otomatis       | 3   |
+| APS436 | KapSel. Fisika Instrumentasi     | 3   |
+Kelompok Biofisika
+
+| KODE   | NAMA                             | SKS |
+|--------|----------------------------------|-----|
+| APS350 | FIsika Instrumentasi Medis       | 3   |
+| APS351 | Biofisika                        | 3   |
+| APS352 | Fisika Kedokteran                | 3   |
+| APS458 | Kapita Selekta Biofisika         | 3   |
+| APS459 | Kapita Selekta Fisika Kedokteran | 3   |
+Kelompok Fisika Material dan Optika
+
+| KODE   | NAMA                           | SKS |
+|--------|--------------------------------|-----|
+| APS343 | Struktur Materi                | 3   |
+| APS441 | Reologi                        | 3   |
+| APS442 | Fisika Polimer                 | 3   |
+| APS443 | Pengantar Kristal Cair         | 3   |
+| APS444 | Fisika Kristal Cair            | 3   |
+| APS445 | Pengantar Nanoteknologi        | 3   |
+| APS446 | Nanoteknologi dan Lingkungan   |     |
+| APS447 | Fisika Laser                   |     |
+| APS448 | Hamburan dan Spektroskopi      |     |
+| APS449 | Kapita Selekta Fisika Material |     |
+Kelompok Fisika Bumi
+
+| KODE   | NAMA                       | SKS |
+|--------|----------------------------|-----|
+| APS361 | Geofisika                  | 3   |
+| APS362 | Oseanografi Fisis          | 3   |
+| APS363 | Pemanasan Global           | 3   |
+| APS364 | Cuaca dan Lingkungan       | 3   |
+| APS469 | Kapita Selekta Fisika Bumi | 3   |
+| APS447 | Fisika Laser               |     |
+Kelompok Astrofisika
+
+| KODE   | NAMA                       | SKS |
+|--------|----------------------------|-----|
+| APS371 | Tata Surya                 | 3   |
+| APS372 | Bintang                    | 3   |
+| APS373 | Kosmologi                  | 3   |
+| APS474 | Kosmologi Relativistik     | 3   |
+| APS479 | Kapita Selekta Astrofisika | 3   |
+
+Komposisi Kuliah wajib dan pilihan adalah  
+Kuliah Wajib = 120 sks  
+Kuliah Pilihan = 24 sks  
+
+Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
+
+Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
+
+####Peta dan Prasyarat Matakuliah
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+####Deskripsi Singkat Matakuliah Program Studi Fisika
+
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH|
+|---------|-----------------------------|
+| AIF111  | Pemrograman Komputer/ *Computer Programming*|
+| -       | Mata kuliah ini bertujuan untuk mengenalkan dan,membekali mahasiswa kepada konsep-konsep dasar pemrograman.|
+| APS101  | Pengenalan,Program Studi Fisika/ *Introduction to,Physics Studies*|
+| -       | Mata kuliah ini bertujuan   untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang                      meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat   kesimpulan. Selain itu, mata kuliah ini              juga membahas tujuan dan struktur program   studi, melatih penggunaan metode ilmiah, serta peluasan wawasan                  tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.    |
+| APS103  | Ketrampilan Fisika/ *Key Skills For Physics*|
+| -       | Mata kuliah ini bertujuan,untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang,meliputi:              kemampuan untuk menganalisa, memecahkan masalah dan membuat,kesimpulan. Selain itu, mata kuliah ini juga melatih             mahasiswa untuk,mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat,laporan ilmiah yang             profesional dan mempresentasikannya.|
+| ICE109  | Kimia Dasar / *Chemistry*|
+| -       | Tujuan dari mata kuliah ini   adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat                     memahami|
+
+| KODE MK | NAMA & DESKRIPSI MATA KULIAH|
+|---------|-----------------------------|
+| APS105  | Fisika Dasar 1/ *Physics 1* |
+| -       | Melalui mata kuliah ini,diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta,mampu                     menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika,(Gejala dan Sifat Warna, Optika Geometris,                  Gejala Polarisasi), Bunyi (Getaran,dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik                         dan,Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta,aplikasinya). Perkuliahan menggunakan             demonstrasi untuk menjelaskan berbagai,konsep.,Kuliah ini juga dilengkapi,praktikum yang berorientasi pemecahan              masalah (bukan prosedural) untuk,menunjang penguasaan materi kuliah secara terpadu melalui kegiatan                          kelompok.Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan,pemodelan untuk berbagai                   fenomena fisika.|
+| APS106  | Fisika Dasar 2/ *Physics 2*|
+| APS105  | Melalui mata kuliah ini,diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta,mampu                     menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika,(Kinematika, Dinamika, Usaha dan Energi,                  Momentum dan Impuls, Benda Elastik,dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor                    dan,Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi).,Perkuliahan menggunakan demonstrasi untuk             menjelaskan berbagai konsep.,Kuliah ini juga dilengkapi,praktikum yang berorientasi pemecahan masalah (bukan                 prosedural) untuk,menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok.,Penggunaan                    komputer dalam praktikum membekali mahasiswa dengan kemampuan,pemodelan untuk berbagai fenomena fisika.|
+| APS107  | Fisika Matematika 1/ *Mathematical Physics 1*|
+| -       | Melalui mata kuliah ini,diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan,integral.              Secara garis besar materi dalam mata kuliah ini antara lain: Limit,dan Kekontinuan, Turunan dan penggunaannya,               Integral dan penggunaannya, Teknik,Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga,                        Persamaan,Diferensial Biasa.|
+| APS108  | Fisika Matematika 2 / *Mathematical Physics 2*|
+| APS107  | Melalui mata kuliah ini,diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata,kuliah ini               diajarkan tentang: Sistem Persamaan Linier, Matriks dan,Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang              Vektor, Transformasi,Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.|
+
