@@ -276,7 +276,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 ####PETA DAN PRASYARAT MATA KULIAH
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-####2.5.4	DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+####DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH|
 |:-------:|:----------------------------|
 | AMS121  | KALKULUS 1 (*CALCULUS 1*)|
@@ -584,7 +584,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | APS342        | Pengantar Fisika Material / Introduction to Material Physics|
 | APS106 APS208 | Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.|
 | APS348        | Optika / Optics |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | APS106 APS208 | Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.|
 | APS392        | Seminar / Seminar |
 | APS204        | Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.|
