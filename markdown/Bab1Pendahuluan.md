@@ -23,6 +23,7 @@ Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR.
 Visi UNPAR adalah menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan.
 
 Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan : 
+
 * Pengembangan dan pewarisan nilai budaya secar kritis – kreatif;
 
 * Proses pembelajaran yang berpusat pada mahasiswa;
@@ -48,6 +49,7 @@ Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan mart
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:  
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+
     1. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
     2. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
     
