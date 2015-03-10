@@ -310,7 +310,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS221   |KALKULUS VEKTOR (*VECTOR CALCULUS*)|
 |AMS122   |Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
 
-![](images/halaman 21.jpg)
+![](images/halaman_21.jpg)
 Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 | KODE MK               | NAMA & DESKRIPSI MATA KULIAH|
@@ -562,7 +562,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | ICE109  | Kimia Dasar / *Chemistry*|
 | -       | Tujuan dari mata kuliah ini   adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat                     memahami|
 
-![](images/halaman 29.jpg)
+![](images/halaman_29.jpg)
 Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH|
