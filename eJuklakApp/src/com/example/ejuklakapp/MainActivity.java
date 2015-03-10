@@ -1,5 +1,17 @@
 package com.example.ejuklakapp;
 
+
+import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.Window;
+import android.webkit.WebChromeClient;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
@@ -32,7 +44,8 @@ public class MainActivity extends ActionBarActivity implements
 	 * {@link #restoreActionBar()}.
 	 */
 	private CharSequence mTitle;
-
+	final Activity activity = this;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -47,16 +60,81 @@ public class MainActivity extends ActionBarActivity implements
 				(DrawerLayout) findViewById(R.id.drawer_layout));
 	}
 
+	
+	
 	@Override
 	public void onNavigationDrawerItemSelected(int position) {
 		// update the main content by replacing fragments
-		FragmentManager fragmentManager = getSupportFragmentManager();
+		Fragment fragment = null;
+		switch (position) {
+		case 0:
+			fragment = new KataPengantarFragment();
+			setTitle(R.string.title_section1);
+			break;
+		case 1:
+			fragment = new Bab1Fragment();
+			setTitle(R.string.title_section2);
+			break;
+		case 2:
+			fragment = new Bab2Fragment();
+			setTitle(R.string.title_section3);
+			break;
+		case 3:
+			fragment = new Bab3Fragment();
+			setTitle(R.string.title_section4);
+			break;
+		case 4:
+			fragment = new Bab4Fragment();
+			setTitle(R.string.title_section5);
+			break;
+		default:
+			break;
+		}
+		
+
+		if (fragment != null) {
+			FragmentManager fragmentManager = getSupportFragmentManager();
+			fragmentManager.beginTransaction()
+					.replace(R.id.container, fragment).commit();
+
+			// update selected item and title, then close the drawer
+			/*mDrawerList.setItemChecked(position, true);
+			mDrawerList.setSelection(position);
+			setTitle(navMenuTitles[position]);
+			mDrawerLayout.closeDrawer(mDrawerList);*/
+		} else {
+			// error in creating fragment
+			Log.e("MainActivity", "Error in creating fragment");
+		}
+		
+		/*FragmentManager fragmentManager = getSupportFragmentManager();
 		fragmentManager
 				.beginTransaction()
 				.replace(R.id.container,
-						PlaceholderFragment.newInstance(position + 1)).commit();
+						PlaceholderFragment.newInstance(position + 1)).commit();*/
+		
+		/*switch (position+1) {
+		case 1:
+			fragmentManager.beginTransaction()
+			.replace(R.id.container,Layout1Fragment.newInstance(position+1))
+			.commit();
+			break;
+		case 2:
+			fragmentManager.beginTransaction()
+			.replace(R.id.container,Layout1Fragment.newInstance(position+1))
+			.commit();
+			break;
+		}*/
 	}
+	
 
+	@Override
+	public void setTitle(CharSequence title) {
+		mTitle = title;
+		//getActionBar().setTitle(mTitle);
+	}
+	
+/*
 	public void onSectionAttached(int number) {
 		switch (number) {
 		case 1:
@@ -68,8 +146,14 @@ public class MainActivity extends ActionBarActivity implements
 		case 3:
 			mTitle = getString(R.string.title_section3);
 			break;
+		case 4:
+			mTitle = getString(R.string.title_section4);
+			break;
+		case 5:
+			mTitle = getString(R.string.title_section5);
+			break;
 		}
-	}
+	}*/
 
 	public void restoreActionBar() {
 		ActionBar actionBar = getSupportActionBar();
@@ -134,13 +218,13 @@ public class MainActivity extends ActionBarActivity implements
 					false);
 			return rootView;
 		}
-
+/*
 		@Override
 		public void onAttach(Activity activity) {
 			super.onAttach(activity);
 			((MainActivity) activity).onSectionAttached(getArguments().getInt(
 					ARG_SECTION_NUMBER));
-		}
+		}*/
 	}
 
 }
