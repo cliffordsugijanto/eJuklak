@@ -134,7 +134,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
 
 AA|NA|Bobot NA
-:---:|:---:|:---:
+---|---|---
 80 – 100|A|4
 70 – 79|B|3
 60 – 69|C|2
@@ -193,7 +193,7 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
 IPK|Yudisium|
-:---:|:---|
+---|---|
 2,00 – 2,75|Memuaskan
 2,76 – 3,50|Sangat Memuaskan
 3,51 – 4,00|Dengan Pujian (masa studi terpakai ≤ 9 semester) atau Sangat Memuaskan (masa studi terpakai > 9 semester)
@@ -202,19 +202,20 @@ IPK|Yudisium|
 ###Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
 
-1.	Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
-2.	Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
-3.	Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
-4.	Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
+1. Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
+2. Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
+3. Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
+4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
 
 LAMPIRAN 1
+
 JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
 
 |Kegiatan|Semester Ganjil|Semester Genap
-:---:|:---:|:---:|
+---|---|---|
 Perwalian dan FRS|Senin-Kamis, 21-24 Juli 2014|Selasa-Jumat, 13-16 Jan. 2015
 Awal perkuliahan|Senin, 18 Agt. 2014|Senin, 26 Jan. 2015
 PRS|	Senin-Selasa,1-2 Sep. 2014|	Senin-Selasa, 9-10 Feb. 2015
@@ -225,15 +226,17 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 
 
 LAMPIRAN 2
+
 JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
 
 |Tahap|Semester Ganjil|Semester Genap
-:---:|:---:|:---:|
+---|---|---|
 |Tahap 1 (BRP dan 10 SKS)|Kamis, 14 Juli 2014|Jumat, 9 Jan 2015|
 |Tahap 2(Pelunasan SKS dan SAPR)|Senin, 29 Sept. 2014|Senin, 9 Maret 2015|
 
 
 LAMPIRAN 3
+
 SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
 	
 1. Batas akhir pendaftaran Sidang Sarjana
@@ -261,6 +264,7 @@ SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
     * LXI : Sabtu, 8 Agustus 2015
 
 LAMPIRAN 4
+
 ![](images/Lampiran4_1.jpg)
 ![](images/Lampiran4_2.jpg)
 ![](images/Lampiran4_3.jpg)
