@@ -17,9 +17,9 @@ Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat meng
 ####Lain-lain
 1. **Tidak ada ujian** khusus untuk perbaikan nilai ujian.
 2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
-    *	Sakit, yang diperkuat oleh surat keterangan rawat inap dari rumah sakit.
-    *	Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
-    *	Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+    * Sakit, yang diperkuat oleh surat keterangan rawat inap dari rumah sakit.
+    * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+    * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
     Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
