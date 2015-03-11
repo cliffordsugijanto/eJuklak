@@ -59,11 +59,8 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 1. Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
     * alasan gencat studi pada semester sebelumnya
     * rekomendasi dosen wali yang bersangkutan
-
 2. Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
-
 3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
-
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
     * Dikenakan sanksi keuangan berupa pelunasan 200% (dua ratus persen) Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.
     * Dikenakan sanksi akademik berupa hak tempuh sebanyak 12 SKS pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh maksimal 18 SKS berdasarkan pertimbangan yang sah.
@@ -89,7 +86,6 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
 
 1. Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
-
 2. Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
 
 
@@ -110,13 +106,11 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahas
     * Untuk Tatap muka : 
       * Angka : AUTS dan AUAS
       * Persentase : 30-50
-
 2. Seminar/Studi mandiri
   * Komponen kegiatan : Penyajian, Diskusi/Partisipasi,Penyusunan Makalah /Laporan
   * Komponen evaluasi : 
     * Angka : Diserahkan ke falkutas
     * Persentase : Diserahkan ke falkutas
-	
 3. Skripsi
   * Komponen kegiatan : Penyusunan dan penyajian
   * Komponen evaluasi : 
@@ -244,19 +238,16 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
     * LIX :  Jumat, 26 September 2014	
     * LX : Jumat, 16 Jannuari 2015	
     * LXI : Jumat, 12 Juni 2015
-
 2. Sidang Sarjana
   * Periode : 
     * LIX : Jumat, 3 Oktober 2014
     * LX : Jumat, 23 Januari 2015
     * LXI : Jumat, 19 Juni 2015
-
 3. Batas akhir pendaftaran wisuda
   * Periode : 
     * LIX : Senin, 6 Oktober 2014
     * LX : Senin, 2 Februari 2015
     * LXI : Kamis, 25 Juni 2015
-
 4. Wisuda	
   * Periode : 
     * LIX : Sabtu, 1 November 2014
