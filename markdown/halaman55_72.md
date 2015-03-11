@@ -27,7 +27,7 @@ Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuli
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
 
-##3.4Cuti dan Gencat Studi
+##3.4 Cuti dan Gencat Studi
 **(berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)**
 
 ###3.4.1 Persyaratan cuti studi
@@ -82,13 +82,10 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 
 #BAB 4 EVALUASI KEBERHASILAN BELAJAR
 
-
 Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
 
 1. Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
 2. Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
-
-
 
 ##4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
 Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara menyeluruh dan berkesinambungan dalam satu semester dengan cara yang sesuai dengan karakteristik mata kuliah yang bersangkutan.
@@ -137,7 +134,6 @@ AA|NA|Bobot NA
 
 Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan **Penilaian Acuan Normal (PAN).**
 
-
 ##4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
 
@@ -146,14 +142,12 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 3.	Evaluasi Keberhasilan Belajar Tahap Kedua
 4.	Evaluasi Keberhasilan Belajar Tahap Akhir
 
-
 ###4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:
- 
+
 ![](images/4_rumus_ips.jpg)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya.** 
-
 
 ###4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2 (dua) tahun pertama,** atau **pada akhir masa studi terpakai selama 4 (empat) semester,** terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam **Indeks Prestasi Tahap Pertama (IPT I),** dengan rentang **0,00 – 4,00.**
@@ -162,14 +156,12 @@ Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Per
 
 Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Pertama.
 
-
 ###4.2.3 Evaluasi Keberhasilan Belajar Tahap Kedua
 Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan **pada akhir 4 (empat) tahun pertama,** atau **pada akhir masa studi terpakai selama 8 (delapan) semester** terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam **Indeks Prestasi Tahap Kedua (IPT II),** dengan rentang **0,00 – 4,00.**
 
 Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Kedua adalah telah lulus minimal 75 SKS dan IPT II **minimal 2,00**.Dalam hal ini yang dimaksud dengan IPT II adalahIndeks Prestasi untuk 75SKS terbaik. Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tidak diijinkan** melanjutkan studi pada prodi terkait di lingkungan UNPAR. Penetapan mahasiswa yang tidak diijinkan untuk melanjutkan studi dilakukan dengan surat keputusan Rektor.
 
 Semester dimana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Kedua.
-
 
 ###4.2.4 Evaluasi Keberhasilan Belajar Tahap Akhir
 Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
@@ -188,10 +180,9 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 
 IPK|Yudisium|
 ---|---|
-2,00 – 2,75|Memuaskan
-2,76 – 3,50|Sangat Memuaskan
-3,51 – 4,00|Dengan Pujian (masa studi terpakai ≤ 9 semester) atau Sangat Memuaskan (masa studi terpakai > 9 semester)
-
+2,00–2,75|Memuaskan
+2,76–3,50|Sangat Memuaskan
+3,51–4,00|Dengan Pujian (masa studi terpakai ≤ 9 semester) atau Sangat Memuaskan (masa studi terpakai > 9 semester)
 
 ##4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
@@ -202,7 +193,6 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
-
 
 **LAMPIRAN 1**
 **JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015**
@@ -217,7 +207,6 @@ Akhir perkuliahan|	Sabtu, 6 Des. 2014|	Sabtu, 23 Mei 2015
 UAS|	Senin-Jumat, 8-20Des.2014|	Senin-Jumat, 25 Mei-6Juni 2015
 Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 
-
 **LAMPIRAN 2**
 **JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015**
 
@@ -225,7 +214,6 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 ---|---|---|
 |Tahap 1 (BRP dan 10 SKS)|Kamis, 14 Juli 2014|Jumat, 9 Jan 2015|
 |Tahap 2(Pelunasan SKS dan SAPR)|Senin, 29 Sept. 2014|Senin, 9 Maret 2015|
-
 
 **LAMPIRAN 3**
 **SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015**
@@ -252,7 +240,6 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
     * LXI : Sabtu, 8 Agustus 2015
 
 **LAMPIRAN 4**
-
 ![](images/Lampiran4_1.jpg)
 ![](images/Lampiran4_2.jpg)
 ![](images/Lampiran4_3.jpg)
