@@ -118,7 +118,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 
 
-## 1.5Daftar Dosen FTIS
+## 1.5 Daftar Dosen FTIS
 
 Berikut adalah daftar nama 38 dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
