@@ -571,7 +571,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 |---------|-----------------------------|
 | AIF111  | Pemrograman Komputer / *Computer Programming*|
 | -       | Mata kuliah ini bertujuan untuk mengenalkan dan,membekali mahasiswa kepada konsep-konsep dasar pemrograman.|
-| APS101  | Pengenalan Program Studi Fisika/ *Introduction to Physics Studies*|
+| APS101  | Pengenalan Program Studi Fisika / *Introduction to Physics Studies*|
 | -       | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang                        meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini                juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan                    tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.    |
 | APS103  | Ketrampilan Fisika / *Key Skills For Physics*|
 | -       | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan yang  meliputi:              kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih             mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan membuat laporan ilmiah yang              profesional dan mempresentasikannya.|
