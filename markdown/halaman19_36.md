@@ -1,4 +1,4 @@
-#**BAB 2 PENYELENGGARAAN MATA KULIAH**
+#BAB 2 PENYELENGGARAAN MATA KULIAH
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan **matakuliah pilihan.** Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum** (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora.
 
@@ -10,7 +10,7 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR.**
 
-##**Matakuliah Pilihan**
+##2.1 Matakuliah Pilihan
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
 
 1.	Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
@@ -22,7 +22,7 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 1.	Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2.	Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-##**Matakuliah Prasyarat**
+##2.2 Matakuliah Prasyarat
 
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
@@ -32,11 +32,11 @@ Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa seb
 
 3.	Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
-###**Matakuliah Layanan**
+##2.3 Matakuliah Layanan
 
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
-####KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+###2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
 |Kode|Mata Kuliah|SKS|Prodi yang dilayani|
 |------|---------|---|-------------------|
 |AMS100|Matematika Informatika|4|Teknik Informatika|
@@ -54,7 +54,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 |AMS201|Matematika 3|3|Teknik Sipil|
 |AMS202|Matematika 4|3|Teknik Sipil|
 
-####KULIAH LAYANAN PROGRAM STUDI FISIKA
+###2.3.2 KULIAH LAYANAN PROGRAM STUDI FISIKA
 |Kode|Mata Kuliah|SKS|Prodi yang dilayani|
 |----|-----------|---|-------------------|
 |AMS181|Fisika Dasar|4|Matematika|
@@ -68,15 +68,15 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 |AMS189|Praktikum Fisika Dasar|1|Teknik Indstri|
 |FFT113|Kosologi|2|Filsafat|
 
-####KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
+###2.3.3 KULIAH LAYANAN PROGRAM STUDI TEKNIK INFORMATIKA
 |Kode|Mata Kuliah|SKS|Prodi yang dilayani|
 |----|-----------|---|-------------------|
 |AKS144|Pemrograman Komputer|3|Matematika|
 
-###Matakuliah Umum
+##2.4 Matakuliah Umum
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-####Susunan Matakuliah Umum
+###2.4.1 Susunan Matakuliah Umum
 
 |Kode|Mata Kuliah|SKS|
 |----|-----------|---|
@@ -93,7 +93,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU011|Estetika|2|
 |MKU012|Logika|2|
 
-####Uraian Singkat Matakuliah Umum
+###2.4.2 Uraian Singkat Matakuliah Umum
 
 |NAMA MK PRASYARAT|NAMA MATAKULIAH & DESKRIPSI MATAKULIAH|
 |-----------------|--------------------------------------|
@@ -118,8 +118,8 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
-###Kurikulum Program Studi Matematika
-####Susunan Mata kuliah
+##2.5 Kurikulum Program Studi Matematika
+###2.5.1 Susunan Mata kuliah
 
 **Semester 1**
 
@@ -131,7 +131,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS181 | Fisika Dasar                 | R,P   | 4   |
 | MKU012 | Logika                       | R     | 2   |
 | MKU010 | Bahasa Inggris               |       | 2   |
-|        |                              | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 2**
 
@@ -144,7 +144,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MKU011 | Estetika                     |       | 2   |
 | MKU003 | Agama Katolik +              |       | 2   |
 | MKU004 | Fenomologi Agama +           |       |     |
-|        |                              | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 3**
 
@@ -156,7 +156,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS253 | Komputasi Statistika         |       | 2   |
 | AMS271 | Metoda Matematika            |       | 3   |
 | MKU008 | Etika                        |   R   | 2   |
-|        |                              | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 4**
 
@@ -167,7 +167,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS261 | Optimasi                     |       | 4   |
 | AMS272 | Persamaan Diferensial Biasa  |       | 4   |
 | MKU273 | Komputasi Matematika         |       | 2   |
-|        |                              | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 5**
 
@@ -178,7 +178,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS373 | Metoda Numerik               |       | 3   |
 | MKU002 | Pendidikan Kewarganegaraan   |       | 2   |
 | ABCXYZ | Pilihan                      |       | 6   |
-|        |                              | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 6**
 
@@ -187,7 +187,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS322 | Analisis Real                |   R   | 4   |
 | MKU009 | Bahasa Indonesia             |       | 2   |
 | ABCXYZ | Pilihan                      |       | 12  |
-|        |                              | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 7**
 
@@ -197,7 +197,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS491 | Pemodelan Matematika         |       | 4   |
 | MKU001 | Pancasila                    |       | 2   |
 | ABCXYZ | Pilihan                      |       | 9   |
-|        |                              | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 8**
 
@@ -205,9 +205,9 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |--------|------------------------------|-------|-----|
 | AMS499 | Skripsi                      |       | 6   |
 | ABCXYZ | Pilihan                      |       | 9   |
-|        |                              | TOTAL | 15  |
+TOTAL : 15 SKS
 
-####MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
+###2.5.2 MATA KULIAH  PILIHAN PROGRAM STUDI MATEMATIKA
 Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 Kelompok Bidang Kajian: Rekayasa Keuangan  
@@ -288,10 +288,10 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
-####PETA DAN PRASYARAT MATA KULIAH  
+###2.5.3 PETA DAN PRASYARAT MATA KULIAH  
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-####DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
+###2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH|
 |---------|-----------------------------|
@@ -348,8 +348,8 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 |AMS499                 |SKRIPSI (*FINAL PROJECT*)|
 |AMS490 minimal C       |Studi pustaka, penulisan dan penyajian lisan skripsi.|
 
-###Kurikulum Program Studi Fisika
-####Susunan Matakuliah
+##2.6 Kurikulum Program Studi Fisika
+###2.6.1 Susunan Matakuliah
 **Semester 1**
 
 | KODE   | NAMA                     | APR   | SKS |
@@ -360,7 +360,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS107 | Fisika Matematika 1      | P     | 3   |
 | ICE109 | Kimia Dasar              |       | 2   |
 | MKU011 | Estetika                 |       | 2   |
-|        |                          | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 2**
 
@@ -372,7 +372,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS124 | Fisika Modern       |       | 3   |
 | APS132 | Fisika Komputasi    | P     | 3   |
 | MKU012 | Logika              |       | 2   |
-|        |                     | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 3**
 
@@ -384,7 +384,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS225         | Lab. Fisika Modern                | P     | 3   |
 | APS233         | Elektronika 1                     | P     | 3   |
 | MKU003/ MKU004 | Agama Katolik/ Fenomenologi Agama |       | 2   |
-|                |                                   | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 4**
 
@@ -396,7 +396,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS222 | Listrik Magnet      | R     | 4   |
 | APS234 | Elektronika 2       | P     | 3   |
 | MKU010 | Bahasa Inggris      |       | 2   |
-|        |                     | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 5**
 
@@ -408,7 +408,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS341 | Pengantar Fisika Nuklir    |       | 3   |
 | MKU008 | Etika                      |       | 2   |
 |        | Mata Kuliah Pilihan        |       | 3   |
-|        |                            | TOTAL | 18  |
+TOTAL : 18 SKS
 
 **Semester 6**
 
@@ -421,7 +421,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS392 | Seminar                   |       | 2   |
 | MKU009 | Bahasa Indonesia          |       | 2   |
 |        | Mata Kuliah Pilihan       |       | 3   |
-|        |                           | TOTAL | 19  |
+TOTAL : 19 SKS
 
 **Semester 7**
 
@@ -431,7 +431,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | MKU001 | Pancasila           |       | 2   |
 | MKU002 | Kewarganegaraan     |       | 2   |
 |        | Mata Kuliah Pilihan |       | 9   |
-|        |                     | TOTAL | 17  |
+TOTAL : 17 SKS
 
 **Semester 8**
 
@@ -441,7 +441,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS498 | Tugas Akhir 2       |       | 4   |
 | SAB315 | Kewirausahaan       |       | 3   |
 |        | Mata Kuliah Pilihan |       | 9   |
-|        |                     | TOTAL | 18  |
+TOTAL : 18 SKS
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
@@ -458,7 +458,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | 9      | Seminar dan skripsi                                                  |
 | 0      | Kuliah Dasar, Keterampilan Umum, Lain-Lain                           |
 
-####Matakuliah Pilihan Program Studi Fisika
+###2.6.2 Matakuliah Pilihan Program Studi Fisika
 Lain-lain
 
 | KODE   | NAMA                    | SKS |
@@ -546,10 +546,10 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-####Peta dan Prasyarat Matakuliah
+###2.6.3 Peta dan Prasyarat Matakuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
-####Deskripsi Singkat Matakuliah Program Studi Fisika
+###2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH|
 |---------|-----------------------------|
@@ -634,8 +634,8 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | SAB315        | Kewirausahaan / *Entrepreneurship*|
 | -             | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.|
 
-### Kurikulum Program Studi Teknik Informatika
-####	Sususan matakuliah
+## 2.7 Kurikulum Program Studi Teknik Informatika
+###	2.7.1 	Sususan matakuliah
 
 **Semester 1**
 
@@ -749,12 +749,12 @@ Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk
 3. Nilai minimum kuliah jalur pemrograman/algoritma
 Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
 
-  1.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-  2.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-  3.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-  4.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+    1.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    2.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    3.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    4.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-####	Matakuliah Pilihan Program Studi Teknik Informatika
+### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
 | KODE   | NAMA                                       | APR | SKS |
 |--------|--------------------------------------------|-----|-----|
@@ -826,10 +826,10 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
 | AIF469 | Layanan Berbasis Web                                             |     |     |
 | AIF470 | Pemrograman Jaringan                                             |     |     |
 
-#### Peta dan Prasyarat Matakuliah 
+### 2.7.3 Peta dan Prasyarat Matakuliah 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
-#### Deskripsi Matakuliah
+### 2.7.4 Deskripsi Matakuliah
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH|
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
