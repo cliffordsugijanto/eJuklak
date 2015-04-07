@@ -1167,10 +1167,10 @@ Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
 2. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.  
 3. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.  
 4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.  
-5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 pada tabel Hak Tempuh. Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
-    * 1 jam kuliah 
-    * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-    * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 pada tabel Hak Tempuh. Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :  
+* 1 jam kuliah  
+* 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)  
+* 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 | IPS         | Hak Tempuh pada Semester Berikutnya |
 |-------------|-------------------------------------|
@@ -1204,15 +1204,15 @@ Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pemba
 
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
-1. Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS). Kehadiran pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah. Kegiatan tatap muka sebaiknya dimanfaatkan secara maksimal dengan :  
+ 1. Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS). Kehadiran pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah. Kegiatan tatap muka sebaiknya dimanfaatkan secara maksimal dengan :  
   * membaca bahan yang diperkirakan akan dibahas dosen.  
   * menanyakan segala hal yang belum jelas kepada dosen.  
   * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
-2. **Kegiatan akademik terstruktur (kurang lebih 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.  
+ 2. **Kegiatan akademik terstruktur (kurang lebih 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.  
   * Responsi merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.  
   * Praktikumbertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.  
   * Pekerjaan rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri maupun kelompok.  
-3. **Kegiatan akademik mandiri(kurang lebih 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
+ 3. **Kegiatan akademik mandiri(kurang lebih 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
 
 ## 3.3 Tata Cara Ujian
 Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :  
