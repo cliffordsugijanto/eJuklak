@@ -1094,7 +1094,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 | AIF104  | **LOGIKA INFORMATIKA /** ***LOGICS FOR INFORMATICS***|
 |         | Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.|
 | AIF105  | **PENGANTAR INFORMATIKA /** ***INTRODUCTION TO INFORMATICS***|
-|         | Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.|
+|         | Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.|
 
 ![](images/halaman 44.jpg)
 Gambar 3. Peta dan Prasyarat Matakuliah
@@ -1122,14 +1122,14 @@ Deskripsi matakuliah
 |              | Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
 | AIF301       | **PENGANTAR SISTEM CERDAS /** ***INTRODUCTION TO INTELLIGENT SYSTEMS***|
 |              | Mempelajari definisi, karakteristikagen cerdas, blind search, informed search, local search, adversarial search, representasi pengetahuan dengan Propositional Logic dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin.|
-| AIF302       | **PENULISAN ILMIAH /** ***SCIENTIFIC WRITING**|
+| AIF302       | **PENULISAN ILMIAH /** ***SCIENTIFIC WRITING***|
 |              | Mempersiapkan mahasiswa untuk mulai melakukan penelitian×Memberikan penjelasan tentang penelitian dan jenis-jenisnya.|
 | AIF303       | **PENGANTAR SISTEM INFORMASI /** ***INTRODUCTION TO INFORMATION SYSTEMS***|
 |              | Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.|
 | AIF304       | **PROYEK SISTEM INFORMASI 1 /** ***INFORMATION SYSTEM PROJECT 1***|
 |              | Mempelajari pendalaman manajemen projek (penyusunan Project Implementation Plan), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).|
 | AIF305       | **JARINGAN KOMPUTER /** ***COMPUTER NETWORKS***|
-|              | Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;layering; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; Reliable data delivery; Lapisan jaringan; Local Area Network; Resource Allocation; Mobility; Multimedia Networking;Memperkenalkan keamanan jaringan; Social Networking;,Membangun dan administrasi jaringan LAN.|
+|              | Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;layering; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; Reliable data delivery; Lapisan jaringan; Local Area Network; Resource Allocation; Mobility; Multimedia Networking;Memperkenalkan keamanan jaringan; Social Networking; Membangun dan administrasi jaringan LAN.|
 | AIF306       | **PROYEK INFORMATIKA /** ***INFORMATICS PROJECT***|
 |              | Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.|
 | AIF401       | **SKRIPSI 1 /** ***UNDERGRADUATE THESIS 1***|
@@ -1137,13 +1137,13 @@ Deskripsi matakuliah
 | AIF402       | **SKRIPSI 2 /** ***UNDERGRADUATE THESIS 2***|
 |              | Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.|
 | AIF403       | **KOMPUTER & MASYARAKAT /** ***COMPUTER & SOCIETY***|
-|              | Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
+|              | Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai "process enabler" dan "process improvement driver", serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
 | AIF405       | **PROYEK SISTEM INFORMASI 2 /** ***INFORMATION SYSTEM PROJECT 2***|
 |              | Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,pengujian modul, integrasi dan penerimaan user (UAT).|
 | AMS100       | **MATEMATIKA INFORMATIKA /** ***MATHEMATICS FOR INFORMATICS***|
-|              | Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,,Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
+|              | Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit, Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.|
 | AMS200       | **PROBABILITAS & STATISTIKA /** ***PROBABILITY & STATISTICS***|
-|              | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika|
+|              | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
 
 # BAB 3 KEGIATAN AKADEMIK
 
