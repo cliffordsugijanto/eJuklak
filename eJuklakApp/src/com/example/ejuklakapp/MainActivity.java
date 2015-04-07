@@ -87,7 +87,7 @@ public class MainActivity extends ActionBarActivity implements
 	public void onNavigationDrawerItemSelected(int position) {
 		// update the main content by replacing fragments
 		ViewFragment fragment = new ViewFragment(HTMLPath);
-		setTitle(R.string.title_section1);
+		setTitle("eJuklak");
 //		switch (position) {
 //		case 0:
 //			fragment = new ViewFragment(HTMLPath+ids[position]);
