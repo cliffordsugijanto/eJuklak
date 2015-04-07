@@ -345,13 +345,13 @@ int id action_bar_spinner 0x7f090002
 int id action_bar_subtitle 0x7f09001f
 int id action_bar_title 0x7f09001e
 int id action_context_bar 0x7f090032
-int id action_example 0x7f090044
+int id action_example 0x7f090045
 int id action_menu_divider 0x7f090005
 int id action_menu_presenter 0x7f090006
 int id action_mode_bar 0x7f09002e
 int id action_mode_bar_stub 0x7f09002d
 int id action_mode_close_button 0x7f090020
-int id action_settings 0x7f090043
+int id action_settings 0x7f090044
 int id activity_chooser_view_content 0x7f090021
 int id always 0x7f090014
 int id beginning 0x7f09001b
@@ -404,6 +404,7 @@ int id tabMode 0x7f09000c
 int id title 0x7f090027
 int id up 0x7f090001
 int id useLogo 0x7f090013
+int id webView 0x7f090043
 int id withText 0x7f090018
 int id wrap_content 0x7f090009
 int integer abc_max_action_buttons 0x7f080000
@@ -435,9 +436,9 @@ int layout fragment_bab1 0x7f030018
 int layout fragment_bab2 0x7f030019
 int layout fragment_bab3 0x7f03001a
 int layout fragment_bab4 0x7f03001b
-int layout fragment_katapengantar 0x7f03001c
-int layout fragment_main 0x7f03001d
-int layout fragment_navigation_drawer 0x7f03001e
+int layout fragment_main 0x7f03001c
+int layout fragment_navigation_drawer 0x7f03001d
+int layout fragment_view 0x7f03001e
 int layout support_simple_spinner_dropdown_item 0x7f03001f
 int menu global 0x7f0c0000
 int menu main 0x7f0c0001

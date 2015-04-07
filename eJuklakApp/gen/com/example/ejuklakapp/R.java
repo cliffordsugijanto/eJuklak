@@ -1651,13 +1651,13 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f09001f;
         public static final int action_bar_title=0x7f09001e;
         public static final int action_context_bar=0x7f090032;
-        public static final int action_example=0x7f090044;
+        public static final int action_example=0x7f090045;
         public static final int action_menu_divider=0x7f090005;
         public static final int action_menu_presenter=0x7f090006;
         public static final int action_mode_bar=0x7f09002e;
         public static final int action_mode_bar_stub=0x7f09002d;
         public static final int action_mode_close_button=0x7f090020;
-        public static final int action_settings=0x7f090043;
+        public static final int action_settings=0x7f090044;
         public static final int activity_chooser_view_content=0x7f090021;
         public static final int always=0x7f090014;
         public static final int beginning=0x7f09001b;
@@ -1710,6 +1710,7 @@ containing a value of this type.
         public static final int title=0x7f090027;
         public static final int up=0x7f090001;
         public static final int useLogo=0x7f090013;
+        public static final int webView=0x7f090043;
         public static final int withText=0x7f090018;
         public static final int wrap_content=0x7f090009;
     }
@@ -1767,9 +1768,9 @@ containing a value of this type.
         public static final int fragment_bab2=0x7f030019;
         public static final int fragment_bab3=0x7f03001a;
         public static final int fragment_bab4=0x7f03001b;
-        public static final int fragment_katapengantar=0x7f03001c;
-        public static final int fragment_main=0x7f03001d;
-        public static final int fragment_navigation_drawer=0x7f03001e;
+        public static final int fragment_main=0x7f03001c;
+        public static final int fragment_navigation_drawer=0x7f03001d;
+        public static final int fragment_view=0x7f03001e;
         public static final int support_simple_spinner_dropdown_item=0x7f03001f;
     }
     public static final class menu {

@@ -1,13 +1,20 @@
 package com.example.ejuklakapp;
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.LinkedList;
+
+import org.apache.commons.lang3.StringUtils;
+
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
 import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
+import android.app.Fragment;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.content.SharedPreferences;
+import android.content.res.AssetManager;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -21,7 +28,6 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
-
 /**
  * Fragment used for managing interactions for and presentation of a navigation
  * drawer. See the <a href=
@@ -51,11 +57,11 @@ public class NavigationDrawerFragment extends Fragment {
 	 * Helper component that ties the action bar to the navigation drawer.
 	 */
 	private ActionBarDrawerToggle mDrawerToggle;
-
+	
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerListView;
 	private View mFragmentContainerView;
-
+	private String[] titles;
 	private int mCurrentSelectedPosition = 0;
 	private boolean mFromSavedInstanceState;
 	private boolean mUserLearnedDrawer;
@@ -83,6 +89,7 @@ public class NavigationDrawerFragment extends Fragment {
 		// Select either the default item (0) or the last selected item.
 		selectItem(mCurrentSelectedPosition);
 	}
+
 
 	@Override
 	public void onActivityCreated(Bundle savedInstanceState) {
@@ -113,11 +120,14 @@ public class NavigationDrawerFragment extends Fragment {
 						getString(R.string.title_section3),
 						getString(R.string.title_section4),
 						getString(R.string.title_section5),
-				}));
+				}
+				
+				));
 		mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 		return mDrawerListView;
 	}
 
+	
 	public boolean isDrawerOpen() {
 		return mDrawerLayout != null
 				&& mDrawerLayout.isDrawerOpen(mFragmentContainerView);
@@ -167,7 +177,7 @@ public class NavigationDrawerFragment extends Fragment {
 					return;
 				}
 
-				getActivity().supportInvalidateOptionsMenu(); // calls
+				getActivity().invalidateOptionsMenu(); // calls
 																// onPrepareOptionsMenu()
 			}
 
@@ -189,7 +199,7 @@ public class NavigationDrawerFragment extends Fragment {
 							.commit();
 				}
 
-				getActivity().supportInvalidateOptionsMenu(); // calls
+				getActivity().invalidateOptionsMenu(); // calls
 																// onPrepareOptionsMenu()
 			}
 		};

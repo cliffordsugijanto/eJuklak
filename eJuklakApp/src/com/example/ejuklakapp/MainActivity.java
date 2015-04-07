@@ -1,6 +1,12 @@
 package com.example.ejuklakapp;
 
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.LinkedList;
+
+import org.apache.commons.lang3.StringUtils;
+
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.Intent;
@@ -15,9 +21,10 @@ import android.webkit.WebViewClient;
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
+import android.app.Fragment;
+import android.app.FragmentManager;
 import android.content.Context;
+import android.content.res.AssetManager;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -43,6 +50,12 @@ public class MainActivity extends ActionBarActivity implements
 	 * Used to store the last screen title. For use in
 	 * {@link #restoreActionBar()}.
 	 */
+	private ViewFragment webView;
+	private String HTMLPath;
+	private String HTMLName;
+	//private HTMLHeader[] headers= this.getHTMLHeaders();
+	private String[] ids;
+	private String[] headers;
 	private CharSequence mTitle;
 	final Activity activity = this;
 	
@@ -51,7 +64,15 @@ public class MainActivity extends ActionBarActivity implements
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		mNavigationDrawerFragment = (NavigationDrawerFragment) getSupportFragmentManager()
+        HTMLName = "ejuklakgab.html";
+        HTMLPath = "file:///android_asset/" + HTMLName;
+        webView = new ViewFragment(HTMLPath);
+        ids = this.getHTMLIds();
+        headers = this.getHTMLHeaders();
+        getFragmentManager().beginTransaction().replace(R.id.container, webView).commit();
+        
+		
+		mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager()
 				.findFragmentById(R.id.navigation_drawer);
 		mTitle = getTitle();
 
@@ -65,47 +86,46 @@ public class MainActivity extends ActionBarActivity implements
 	@Override
 	public void onNavigationDrawerItemSelected(int position) {
 		// update the main content by replacing fragments
-		Fragment fragment = null;
-		switch (position) {
-		case 0:
-			fragment = new KataPengantarFragment();
-			setTitle(R.string.title_section1);
-			break;
-		case 1:
-			fragment = new Bab1Fragment();
-			setTitle(R.string.title_section2);
-			break;
-		case 2:
-			fragment = new Bab2Fragment();
-			setTitle(R.string.title_section3);
-			break;
-		case 3:
-			fragment = new Bab3Fragment();
-			setTitle(R.string.title_section4);
-			break;
-		case 4:
-			fragment = new Bab4Fragment();
-			setTitle(R.string.title_section5);
-			break;
-		default:
-			break;
-		}
-		
-
-		if (fragment != null) {
-			FragmentManager fragmentManager = getSupportFragmentManager();
-			fragmentManager.beginTransaction()
-					.replace(R.id.container, fragment).commit();
+		ViewFragment fragment = new ViewFragment(HTMLPath);
+		setTitle(R.string.title_section1);
+//		switch (position) {
+//		case 0:
+//			fragment = new ViewFragment(HTMLPath+ids[position]);
+//			setTitle(R.string.title_section1);
+//			break;
+//		case 1:
+//			fragment = new Bab1Fragment();
+//			setTitle(R.string.title_section2);
+//			break;
+//		case 2:
+//			fragment = new Bab2Fragment();
+//			setTitle(R.string.title_section3);
+//			break;
+//		case 3:
+//			fragment = new Bab3Fragment();
+//			setTitle(R.string.title_section4);
+//			break;
+//		case 4:
+//			fragment = new Bab4Fragment();
+//			setTitle(R.string.title_section5);
+//			break;
+//		default:
+//			break;
+//		}
+//		
+		getFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
+		/*if (fragment != null) {
+			getFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
 
 			// update selected item and title, then close the drawer
-			/*mDrawerList.setItemChecked(position, true);
+			mDrawerList.setItemChecked(position, true);
 			mDrawerList.setSelection(position);
 			setTitle(navMenuTitles[position]);
-			mDrawerLayout.closeDrawer(mDrawerList);*/
+			mDrawerLayout.closeDrawer(mDrawerList);
 		} else {
 			// error in creating fragment
 			Log.e("MainActivity", "Error in creating fragment");
-		}
+		}*/
 		
 		/*FragmentManager fragmentManager = getSupportFragmentManager();
 		fragmentManager
@@ -128,6 +148,89 @@ public class MainActivity extends ActionBarActivity implements
 	}
 	
 
+	public String[] getHTMLHeaders(){
+		AssetManager assetManager = getAssets();
+		String text = new String();
+	    InputStream input;
+	    try {
+		    input = assetManager.open(HTMLName);
+			int size = input.available();
+		    byte[] buffer = new byte[size];
+		    input.read(buffer);
+		    input.close();
+		    text = new String(buffer);
+	    } catch (IOException e) {
+           e.printStackTrace();
+        }
+	    
+	    LinkedList<String> headerList = new LinkedList<String>();
+	    String content = StringUtils.substringBetween(text, "<body>", "</body>");
+	    String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
+	    for (String header : headers) {
+          	String value  = StringUtils.substringBetween(header, ">", "<");
+          	headerList.add(value);
+	    }
+	    headerList.addFirst("eJuklak");
+	    String arr[] = headerList.toArray(new String[headerList.size()]);
+	    return arr;
+	}
+	
+	
+	private String[] getHTMLIds(){
+		AssetManager assetManager = getAssets();
+		String text = new String();
+	    InputStream input;
+	    try {
+		    input = assetManager.open(HTMLName);
+			int size = input.available();
+		    byte[] buffer = new byte[size];
+		    input.read(buffer);
+		    input.close();
+		    text = new String(buffer);
+	    } catch (IOException e) {
+           e.printStackTrace();
+        }
+	    
+	    LinkedList<String> idList = new LinkedList<String>();
+	    String content = StringUtils.substringBetween(text, "<body>", "</body>");
+	    String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
+	    for (String header : headers) {
+          	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
+          	idList.add(id);
+	    }
+	    idList.addFirst("");
+	    String arr[] = idList.toArray(new String[idList.size()]);
+	    return arr;
+	}
+	/*public HTMLHeader[] getHTMLHeaders(){
+    	AssetManager assetManager = getAssets();
+		String text = new String();
+	    InputStream input;
+	    try {
+		    input = assetManager.open(HTMLName);
+			int size = input.available();
+		    byte[] buffer = new byte[size];
+		    input.read(buffer);
+		    input.close();
+		    text = new String(buffer);
+	    } catch (IOException e) {
+           e.printStackTrace();
+        }
+	    
+	    LinkedList<HTMLHeader> headerList = new LinkedList<HTMLHeader>();
+	    String content = StringUtils.substringBetween(text, "<body>", "</body>");
+	    String[] headers = StringUtils.substringsBetween(content, "<h", "/h");
+	    for (String header : headers) {
+			String number  = StringUtils.substringBetween(header, "", " id");
+          	String id  = StringUtils.substringBetween(header, "id=\"", "\">");
+          	String value  = StringUtils.substringBetween(header, ">", "<");
+          	headerList.add(new HTMLHeader(Integer.parseInt(number),id,value));
+	    }
+	    headerList.addFirst(new HTMLHeader(1,"","HOME"));
+	    HTMLHeader[] headerArr = headerList.toArray(new HTMLHeader[headerList.size()]);
+	    return headerArr;
+    }*/
+	
 	@Override
 	public void setTitle(CharSequence title) {
 		mTitle = title;
