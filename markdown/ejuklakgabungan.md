@@ -374,9 +374,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU003|Agama Katolik|2|
 |MKU004|Fenomenologi Agama|2|
 |MKU008|Etika|2|
-
-|Kode|Mata Kuliah|SKS|
-|----|-----------|---|
 |MKU009|Bahasa Indonesia|2|
 |MKU010|Bahasa Inggris|2|
 |MKU011|Estetika|2|
@@ -586,7 +583,9 @@ Kelompok Bidang Kajian: Rekayasa Keuangan
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
 ###2.5.3 PETA DAN PRASYARAT MATA KULIAH  
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+
+![](images/halaman_21.jpg)
+Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 ###2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
 
@@ -599,12 +598,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 |AMS124   | AMS123 | **MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)** Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.|
 |AMS126   | - | **ALJABAR MATRIKS (*MATRIX ALGEBRA*)** Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
 |AMS221   | AMS122 | **KALKULUS VEKTOR (*VECTOR CALCULUS*)** Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.|
-
-![](images/halaman_21.jpg)
-Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
-
-| KODE MK |PRASYARAT| NAMA & DESKRIPSI MATA KULIAH|
-|---------|---------|-----------------------------|
 |AMS231   | AMS122  | **TEORI SUKU BUNGA (*THEORY OF INTEREST*)** Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi danpengakumulasian dana.|
 |AMS251   | AMS122  | **TEORI PELUANG (*PROBABILITY THEORY*)** Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
 |AMS253   | APS181, AMS151 | **KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)** Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
@@ -659,7 +652,7 @@ TOTAL : 19 SKS
 | APS215         | Fisika Thermal                    | R     | 3   |
 | APS225         | Lab. Fisika Modern                | P     | 3   |
 | APS233         | Elektronika 1                     | P     | 3   |
-| MKU003/ MKU004 | Agama Katolik / Fenomenologi Agama|       | 2   |
+| MKU003 / MKU004| Agama Katolik / Fenomenologi Agama|       | 2   |
 
 TOTAL : 19 SKS
 
@@ -829,7 +822,9 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, entrepreneurship, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ###2.6.3 Peta dan Prasyarat Matakuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+![](images/halaman_29.jpg)
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 ###2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
@@ -839,19 +834,10 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | APS101  | - | **Pengenalan Program Studi Fisika /** ***Introduction to Physics Studies*** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.|
 | APS103  | - | **Ketrampilan Fisika /** ***Key Skills For Physics*** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan yang  meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan membuat laporan ilmiah yang profesional dan mempresentasikannya.|
 | ICE109  | - | **Kimia Dasar /** ***Chemistry*** Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami|
-
-![](images/halaman_29.jpg)
-Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
-
-| KODE MK | PRASYARAT | NAMA & DESKRIPSI MATA KULIAH|
-|---------|-----------|------------------|
 | APS105  | - | **Fisika Dasar 1 /** ***Physics 1*** Melalui mata kuliah ini,diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran,dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
 | APS106  | APS105 | **Fisika Dasar 2 /** ***Physics 2*** Melalui mata kuliah ini, diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta, mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik, dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan, Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep. Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.|
 | APS107  | - | **Fisika Matematika 1 /** ***Mathematical Physics 1*** Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.|
 | APS108  | APS107 | **Fisika Matematika 2 /** ***Mathematical Physics 2*** Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.|
-
-| KODE          | PRASYARAT |NAMA & DESKRIPSI MATA KULIAH|
-|---------------|-----------|------------------|
 | APS112        | APS105, APS107 | **Mekanika /** ***Mechanics*** Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika. Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.|
 | APS124        | APS105, APS107 | **Fisika Modern /** ***Modern Physics*** Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya. Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum. |
 | APS132        | AIF111 | **Fisika Komputasi /** ***Computational Physics*** Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.|
@@ -866,9 +852,6 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | APS233               | APS108, APS132 | **Elektronika 1 /** ***Electronics 1*** Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.|
 | APS234               | APS233, APS207 | **Elektronika 2 /** ***Electronics 2*** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.|
 | APS304               | - | **Teknik Presentasi /** ***Presentation Skills*** Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.|
-
-| KODE MK       | PRASYARAT | NAMA & DESKRIPSI MATA KULIAH|
-|---------------|-----------|-------------------------|
 | APS323        | APS222, APS208 | **Elektrodinamika /** ***Electrodynamics*** Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (Hukum Ohm dan Hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.|
 | APS327        | APS208 | **Fisika Kuantum /** ***Quantum Physics*** Kuliah ini membahas fenomena-fenomena yang ditemukan pada awal lahirnya teori kuantum, seperti fenomena kuantisasi dan dualisme partikel gelombang, dan teori-teori yang dibangun untuk menjelaskan fenomena-fenomena tersebut (prinsip gelombang dalam pemahaman teori kuantum, persamaan Schrodinger). Aplikasi teori kuantum diarahkan pada masalah-masalah yang sederhana dalam aplikasi persamaan Schrodinger, teori perturbasi serta pembahasan tentang momentum sudut dan spin partikel. Pada akhirnya, akan dibahas pula sebuah pandangan alternatif terhadap teori kuantum melalui path integral yang dikembangkan oleh Feynman. Melalui mata kuliah ini mahasiswa diharapkan dapat memahami secara kualitatif dan kuantitatif fenomena kuantum yang sangat berbeda dengan fenomena fisika klasik.|
 | APS328        | APS327, APS208 | **Mekanika Kuantum /** ***Quantum Mechanics*** Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.|
@@ -1046,9 +1029,6 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
 | AIF465 | Teknologi Middleware                       |     |     |
 | AIF466 | Sistem Terdistribusi                       |     |     |
 | AIF468 | Teknologi Multimedia                       |     |     |
-
-| KODE   | NAMA                                                             | APR | SKS |
-|--------|------------------------------------------------------------------|-----|-----|
 | AIF339 | Pemodelan Formal                                                 |     | 3   |
 | AIF340 | Komputasi Geometri                                               |     | 3   |
 | AIF341 | Adm. Jaringan Komputer 1                                         |     | 3   |
@@ -1083,7 +1063,9 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
 | AIF470 | Pemrograman Jaringan                                             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Matakuliah 
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
+
+![](images/halaman 44.jpg)
+Gambar 3. Peta dan Prasyarat Matakuliah
 
 ### 2.7.4 Deskripsi Matakuliah
 
@@ -1099,13 +1081,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 |         | Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.|
 | AIF105  | **PENGANTAR INFORMATIKA /** ***INTRODUCTION TO INFORMATICS***|
 |         | Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.|
-
-![](images/halaman 44.jpg)
-Gambar 3. Peta dan Prasyarat Matakuliah
-Deskripsi matakuliah
-
-| KODE MK      | NAMA & DESKRIPSI MATA KULIAH|
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AIF106       | **SISTEM DIJITAL /** ***DIGITAL SYSTEMS***|
 |              | Memberi pengetahuan dasar,kepada mahasiswa tentang struktur komputer dan fungsi masing-masing,pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data,di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian,penting di dalam komputer.|
 | AIF201       | **ANALISIS & DESAIN BERORIENTASI OBJEK /** ***OBJECT-ORIENTED ANALYSIS & DESIGN***|
@@ -1181,6 +1156,7 @@ Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
 | >= 3,00     | Maksimum 24 SKS                     |
 | 2,50 - 2,99 | Maksimum 21 SKS                     |
 | <=2,49      | Maksimum 18 SKS                     |
+
 Tabel Hak Tempuh
 
 Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
