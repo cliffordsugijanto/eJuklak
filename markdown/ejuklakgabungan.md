@@ -15,7 +15,7 @@ Faks. +62-22-204-2141
 
 ftis@unpar.ac.id
 
-http://www.unpar.ac.id
+[http://www.unpar.ac.id]
 
 Tim Penyusun
 
@@ -220,7 +220,7 @@ Matematika Diskret, Jaringan Syaraf Tiruan.
 Email: cheni@unpar.ac.id
 * Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.  
 Email: erwinna@unpar.ac.id  
-Website: http://www.unpar.ac.id/erwinna  
+Website: [http://www.unpar.ac.id/erwinna]  
 * Liem Chin, SSi.(UNPAR), MSi.(ITB):   
 Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
 Email: chin@unpar.ac.id   
@@ -1165,7 +1165,7 @@ Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan
 
 ### 3.1.2 Pendaftaran Mata Kuliah
 
-Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url https://studentportal.unpar.ac.id/), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/]), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
 Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa **wajib** memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
 
