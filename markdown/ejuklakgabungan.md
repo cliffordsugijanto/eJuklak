@@ -1184,7 +1184,7 @@ Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pemba
 
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 Perincian kegiatan perkuliahan adalah sebagai berikut :  
- 1. Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS). Kehadiran pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah. Kegiatan tatap muka sebaiknya dimanfaatkan secara maksimal dengan :  
+ 1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**. Kehadiran pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah. Kegiatan tatap muka sebaiknya dimanfaatkan secara maksimal dengan :  
     * membaca bahan yang diperkirakan akan dibahas dosen.  
     * menanyakan segala hal yang belum jelas kepada dosen.  
     * meminta saran dosen tentang cara belajar dan berlatih yang baik.  
