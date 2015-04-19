@@ -1496,20 +1496,31 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 ![](images/Lampiran4_6.jpg)
 
 **LAMPIRAN 5**
+
 ![](images/Lampiran5_1.jpg)
+
 ![](images/Lampiran5_2.jpg)
+
 ![](images/Lampiran5_3.jpg)
 
 **LAMPIRAN 6**
+
 ![](images/Lampiran6_1.jpg)
+
 ![](images/Lampiran6_2.jpg)
 
 **LAMPIRAN 7**
+
 ![](images/Lampiran7_1.jpg)
+
 ![](images/Lampiran7_2.jpg)
+
 ![](images/Lampiran7_3.jpg)
+
 ![](images/Lampiran7_4.jpg)
+
 ![](images/Lampiran7_5.jpg)
+
 ![](images/Lampiran7_6.jpg)
 
 
