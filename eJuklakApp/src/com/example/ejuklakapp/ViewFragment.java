@@ -32,9 +32,5 @@ public class ViewFragment extends Fragment {
         return rootView;
     }
 	
-	public void viewID(String namePath){
-		webView.loadUrl(HTMLPath+"#"+namePath); 
-	}
-	
 	
 }

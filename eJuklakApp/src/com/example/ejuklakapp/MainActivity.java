@@ -7,8 +7,11 @@ import java.util.LinkedList;
 
 import org.apache.commons.lang3.StringUtils;
 
+
+
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
@@ -21,10 +24,12 @@ import android.webkit.WebViewClient;
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
+import android.app.AlertDialog;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
 import android.content.res.AssetManager;
+import android.content.res.Configuration;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -36,6 +41,7 @@ import android.view.ViewGroup;
 import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
@@ -86,8 +92,316 @@ public class MainActivity extends ActionBarActivity implements
 	@Override
 	public void onNavigationDrawerItemSelected(int position) {
 		// update the main content by replacing fragments
-		ViewFragment fragment = new ViewFragment(HTMLPath);
-		setTitle("eJuklak");
+		ViewFragment fragment = null;
+		switch (position) {
+		case 0:
+			fragment = new ViewFragment(HTMLPath+"#kata-pengantar");
+			setTitle("eJuklakApp-Kata Pengantar");
+			break;
+			
+		case 1:
+			fragment = new ViewFragment(HTMLPath+"#bab-1-pendahuluan");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 2:
+			fragment = new ViewFragment(HTMLPath+"#sejarah-fakultas-teknologi-informasi-dan-sains");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+			
+		case 3:
+			fragment = new ViewFragment(HTMLPath+"#visi-misi-tujuan-dan-sasaran-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 4:
+			fragment = new ViewFragment(HTMLPath+"#visi-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 5:
+			fragment = new ViewFragment(HTMLPath+"#misi-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 6:
+			fragment = new ViewFragment(HTMLPath+"#tujuan-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 7:
+			fragment = new ViewFragment(HTMLPath+"#sasaran-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 8:
+			fragment = new ViewFragment(HTMLPath+"#keberhasilan-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+		
+		case 9:
+			fragment = new ViewFragment(HTMLPath+"#pengelola-fakultas");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+			
+		case 10:
+			fragment = new ViewFragment(HTMLPath+"#daftar-dosen-ftis");
+			setTitle("eJuklakApp-Bab 1");
+			break;
+			
+		case 11:
+			fragment = new ViewFragment(HTMLPath+"#bab-2-penyelenggaraan-mata-kuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 12:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-pilihan");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+
+		case 13:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-prasyarat");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 14:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-layanan");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 15:
+			fragment = new ViewFragment(HTMLPath+"#kuliah-layanan-program-studi-matematika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 16:
+			fragment = new ViewFragment(HTMLPath+"#kuliah-layanan-program-studi-fisika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 17:
+			fragment = new ViewFragment(HTMLPath+"#kuliah-layanan-program-studi-teknik-informatika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 18:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-umum");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+			
+		case 19:
+			fragment = new ViewFragment(HTMLPath+"#susunan-matakuliah-umum");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 20:
+			fragment = new ViewFragment(HTMLPath+"#uraian-singkat-matakuliah-umum");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 21:
+			fragment = new ViewFragment(HTMLPath+"#kurikulum-program-studi-matematika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 22:
+			fragment = new ViewFragment(HTMLPath+"#susunan-mata-kuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 23:
+			fragment = new ViewFragment(HTMLPath+"#mata-kuliah-pilihan-program-studi-matematika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 24:
+			fragment = new ViewFragment(HTMLPath+"#peta-dan-prasyarat-mata-kuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 25:
+			fragment = new ViewFragment(HTMLPath+"#deskripsi-singkat-mata-kuliah-prodi-matematika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 26:
+			fragment = new ViewFragment(HTMLPath+"#kurikulum-program-studi-fisika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 27:
+			fragment = new ViewFragment(HTMLPath+"#susunan-matakuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+	
+		case 28:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-pilihan-program-studi-fisika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 29:
+			fragment = new ViewFragment(HTMLPath+"#peta-dan-prasyarat-matakuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 30:
+			fragment = new ViewFragment(HTMLPath+"#deskripsi-singkat-matakuliah-program-studi-fisika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 31:
+			fragment = new ViewFragment(HTMLPath+"#kurikulum-program-studi-teknik-informatika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 32:
+			fragment = new ViewFragment(HTMLPath+"#sususan-matakuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 33:
+			fragment = new ViewFragment(HTMLPath+"#matakuliah-pilihan-program-studi-teknik-informatika");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 34:
+			fragment = new ViewFragment(HTMLPath+"#peta-dan-prasyarat-matakuliah-1");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 35:
+			fragment = new ViewFragment(HTMLPath+"#deskripsi-matakuliah");
+			setTitle("eJuklakApp-Bab 2");
+			break;
+		
+		case 36:
+			fragment = new ViewFragment(HTMLPath+"#bab-3-kegiatan-akademik");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 37:
+			fragment = new ViewFragment(HTMLPath+"#penyusunan-rencana-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 38:
+			fragment = new ViewFragment(HTMLPath+"#perwalian-dan-penentuan-mata-kuliah");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 39:
+			fragment = new ViewFragment(HTMLPath+"#pendaftaran-mata-kuliah");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 40:
+			fragment = new ViewFragment(HTMLPath+"#tahap-perkuliahan-awal");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 41:
+			fragment = new ViewFragment(HTMLPath+"#perubahan-rencana-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 42:
+			fragment = new ViewFragment(HTMLPath+"#kegiatan-perkuliahan");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 43:
+			fragment = new ViewFragment(HTMLPath+"#tata-cara-ujian");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 44:
+			fragment = new ViewFragment(HTMLPath+"#syarat-mengikuti-ujian");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 45:
+			fragment = new ViewFragment(HTMLPath+"#tata-tertib-ujian");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 46:
+			fragment = new ViewFragment(HTMLPath+"#sanksi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 47:
+			fragment = new ViewFragment(HTMLPath+"#lain-lain");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 48:
+			fragment = new ViewFragment(HTMLPath+"#cuti-dan-gencat-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+		
+		case 49:
+			fragment = new ViewFragment(HTMLPath+"#persyaratan-cuti-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+			
+		case 50:
+			fragment = new ViewFragment(HTMLPath+"#prosedur-cuti-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+			
+		case 51:
+			fragment = new ViewFragment(HTMLPath+"#gencat-studi");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+			
+		case 52:
+			fragment = new ViewFragment(HTMLPath+"#pengunduran-diri-sebagai-mahasiswa");
+			setTitle("eJuklakApp-Bab 3");
+			break;
+			
+		case 53:
+			fragment = new ViewFragment(HTMLPath+"#bab-4-evaluasi-keberhasilan-belajar");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 54:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-tiap-mata-kuliah");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 55:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-dalam-suatu-tahap-belajar");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 56:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-tiap-semester");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 57:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-tahap-pertama");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 58:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-tahap-kedua");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 59:
+			fragment = new ViewFragment(HTMLPath+"#evaluasi-keberhasilan-belajar-tahap-akhir");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+			
+		case 60:
+			fragment = new ViewFragment(HTMLPath+"#kemampuan-bahasa-inggris-mahasiswa-unpar");
+			setTitle("eJuklakApp-Bab 4");
+			break;
+		
+		}
+
+		getFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
 //		switch (position) {
 //		case 0:
 //			fragment = new ViewFragment(HTMLPath+ids[position]);
@@ -113,7 +427,7 @@ public class MainActivity extends ActionBarActivity implements
 //			break;
 //		}
 //		
-		getFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
+		
 		/*if (fragment != null) {
 			getFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
 
@@ -285,6 +599,17 @@ public class MainActivity extends ActionBarActivity implements
 		// as you specify a parent activity in AndroidManifest.xml.
 		int id = item.getItemId();
 		if (id == R.id.action_settings) {
+			new AlertDialog.Builder(MainActivity.this)
+			.setTitle("About")
+			.setMessage("(c) 2015 eJuklakApp v0.4-beta rev1")
+			.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+				
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					// TODO Auto-generated method stub
+				}
+			})
+			.show();
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
@@ -330,4 +655,15 @@ public class MainActivity extends ActionBarActivity implements
 		}*/
 	}
 
+	@Override
+	public void onConfigurationChanged(Configuration newConfig) {
+	    super.onConfigurationChanged(newConfig);
+
+	    // Checks the orientation of the screen
+	    if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
+	        //Toast.makeText(this, "landscape", Toast.LENGTH_SHORT).show();
+	    } else if (newConfig.orientation == Configuration.ORIENTATION_PORTRAIT){
+	        //Toast.makeText(this, "portrait", Toast.LENGTH_SHORT).show();
+	    }
+	}
 }
