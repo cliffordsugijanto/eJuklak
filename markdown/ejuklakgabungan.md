@@ -1429,11 +1429,12 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-IPK|Yudisium|
----|---|
-2,00-2,75|Memuaskan
-2,76-3,50|Sangat Memuaskan
-3,51-4,00|Dengan Pujian (masa studi terpakai = 9 semester) atau Sangat Memuaskan (masa studi terpakai > 9 semester)
+IPK|Masa Studi Terpakai|Yudisium|
+---|---|---|
+2,00-2,75|-|Memuaskan|
+2,76-3,50|-|Sangat Memuaskan|
+3,51-4,00|<=9 semester|Dengan Pujian|
+3,51-4,00|>9 semester|Sangat Memuaskan|
 
 ##4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
