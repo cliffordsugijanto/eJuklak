@@ -1445,7 +1445,7 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
-**LAMPIRAN 1**
+#LAMPIRAN 1
 
 **JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015**
 
@@ -1459,7 +1459,7 @@ Akhir perkuliahan|	Sabtu, 6 Des. 2014|	Sabtu, 23 Mei 2015
 UAS|	Senin-Jumat, 8-20Des.2014|	Senin-Jumat, 25 Mei-6Juni 2015
 Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 
-**LAMPIRAN 2**
+#LAMPIRAN 2
 
 **JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015**
 
@@ -1468,7 +1468,7 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 |Tahap 1 (BRP dan 10 SKS)|Kamis, 14 Juli 2014|Jumat, 9 Jan 2015|
 |Tahap 2(Pelunasan SKS dan SAPR)|Senin, 29 Sept. 2014|Senin, 9 Maret 2015|
 
-**LAMPIRAN 3**
+#LAMPIRAN 3
 
 **SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015**
 	
@@ -1493,7 +1493,7 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
         * LX : Sabtu, 28 Februari 2015	
         * LXI : Sabtu, 8 Agustus 2015
 
-**LAMPIRAN 4**
+#LAMPIRAN 4
 ![](images/Lampiran4_1.jpg)
 ![](images/Lampiran4_2.jpg)
 ![](images/Lampiran4_3.jpg)
@@ -1501,7 +1501,7 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 ![](images/Lampiran4_5.jpg)
 ![](images/Lampiran4_6.jpg)
 
-**LAMPIRAN 5**
+#LAMPIRAN 5
 
 ![](images/Lampiran5_1.jpg)
 
@@ -1509,13 +1509,13 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
 
 ![](images/Lampiran5_3.jpg)
 
-**LAMPIRAN 6**
+#LAMPIRAN 6
 
 ![](images/Lampiran6_1.jpg)
 
 ![](images/Lampiran6_2.jpg)
 
-**LAMPIRAN 7**
+#LAMPIRAN 7
 
 ![](images/Lampiran7_1.jpg)
 
