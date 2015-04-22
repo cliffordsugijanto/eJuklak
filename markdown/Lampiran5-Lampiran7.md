@@ -1,13 +1,13 @@
-**LAMPIRAN 5**
+#LAMPIRAN 5
 ![](images/Lampiran5_1.png)
 ![](images/Lampiran5_2.png)
 ![](images/Lampiran5_3.png)
 
-**LAMPIRAN 6**
+#LAMPIRAN 6
 ![](images/Lampiran6_1.png)
 ![](images/Lampiran6_2.png)
 
-**LAMPIRAN 7**
+#LAMPIRAN 7
 ![](images/Lampiran7_1.png)
 ![](images/Lampiran7_2.png)
 ![](images/Lampiran7_3.png)
