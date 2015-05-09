@@ -584,7 +584,8 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ###2.5.3 PETA DAN PRASYARAT MATA KULIAH  
 
-![](images/halaman_21.jpg)
+[![alt text](images/halaman_21.jpg)](halaman_21.html)
+
 Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 ###2.5.4 DESKRIPSI SINGKAT MATA KULIAH PRODI MATEMATIKA
@@ -823,7 +824,8 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 
 ###2.6.3 Peta dan Prasyarat Matakuliah
 
-![](images/halaman_29.jpg)
+[![alt text](images/halaman_29.jpg)](halaman_29.html)
+
 Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 ###2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
@@ -1064,7 +1066,8 @@ Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang
 
 ### 2.7.3 Peta dan Prasyarat Matakuliah 
 
-![](images/halaman 44.jpg)
+[![alt text](images/halaman 44.jpg)](halaman 44.html)
+
 Gambar 3. Peta dan Prasyarat Matakuliah
 
 ### 2.7.4 Deskripsi Matakuliah
@@ -1396,7 +1399,7 @@ Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa m
 
 ![](images/4_rumus_ips.jpg)
 
-dengan (sks x bobot NAi) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya.** 
+dengan (sks~i~ x bobot NA~i~) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya.** 
 
 ###4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2 (dua) tahun pertama,** atau **pada akhir masa studi terpakai selama 4 (empat) semester,** terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam **Indeks Prestasi Tahap Pertama (IPT I),** dengan rentang **0,00 - 4,00.**
@@ -1419,7 +1422,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kum
 
 ![](images/4_rumusIPK.jpg)
 
-dengan (sks x bobot NAi) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut
+dengan (sks~i~ x bobot NA~i~) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut
 
 * Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.  
 * IPK = 2,00.  
@@ -1444,7 +1447,7 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 3. Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
 4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
-Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnya pada saat Evaluasi Studi Tahap 1. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
 #LAMPIRAN 1
 
@@ -1495,40 +1498,46 @@ Pengumuman Nilai Akhir|	Jumat, 9 Jan. 2015|	Senin, 24 Juni 2015
         * LXI : Sabtu, 8 Agustus 2015
 
 #LAMPIRAN 4
-![](images/Lampiran4_1.jpg)
-![](images/Lampiran4_2.jpg)
-![](images/Lampiran4_3.jpg)
-![](images/Lampiran4_4.jpg)
-![](images/Lampiran4_5.jpg)
-![](images/Lampiran4_6.jpg)
+
+[![alt text](images/Lampiran4_1.jpg)](Lampiran4 1.html)
+
+[![alt text](images/Lampiran4_2.jpg)](Lampiran4 2.html)
+
+[![alt text](images/Lampiran4_3.jpg)](Lampiran4 3.html)
+
+[![alt text](images/Lampiran4_4.jpg)](Lampiran4 4.html)
+
+[![alt text](images/Lampiran4_5.jpg)](Lampiran4 5.html)
+
+[![alt text](images/Lampiran4_6.jpg)](Lampiran4 6.html)
 
 #LAMPIRAN 5
 
-![](images/Lampiran5_1.jpg)
+[![alt text](images/Lampiran5_1.jpg)](Lampiran5 1.html)
 
-![](images/Lampiran5_2.jpg)
+[![alt text](images/Lampiran5_2.jpg)](Lampiran5 2.html)
 
-![](images/Lampiran5_3.jpg)
+[![alt text](images/Lampiran5_3.jpg)](Lampiran5 3.html)
 
 #LAMPIRAN 6
 
-![](images/Lampiran6_1.jpg)
+[![alt text](images/Lampiran6_1.jpg)](Lampiran6 1.html)
 
-![](images/Lampiran6_2.jpg)
+[![alt text](images/Lampiran6_2.jpg)](Lampiran6 2.html)
 
 #LAMPIRAN 7
 
-![](images/Lampiran7_1.jpg)
+[![alt text](images/Lampiran7_1.jpg)](Lampiran7 1.html)
 
-![](images/Lampiran7_2.jpg)
+[![alt text](images/Lampiran7_2.jpg)](Lampiran7 2.html)
 
-![](images/Lampiran7_3.jpg)
+[![alt text](images/Lampiran7_3.jpg)](Lampiran7 3.html)
 
-![](images/Lampiran7_4.jpg)
+[![alt text](images/Lampiran7_4.jpg)](Lampiran7 4.html)
 
-![](images/Lampiran7_5.jpg)
+[![alt text](images/Lampiran7_5.jpg)](Lampiran7 5.html)
 
-![](images/Lampiran7_6.jpg)
+[![alt text](images/Lampiran7_6.jpg)](Lampiran7 6.html)
 
 
 
