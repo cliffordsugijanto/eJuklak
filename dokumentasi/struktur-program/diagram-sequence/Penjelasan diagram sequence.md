@@ -1,3 +1,3 @@
 #Sequence Diagram
 
-![](images/sequencediagram.jpg)
+![](sequencediagram.jpg)
