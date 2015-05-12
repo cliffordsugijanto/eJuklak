@@ -13,7 +13,7 @@ Menu Samping bisa digunakan dengam menekan symbol '≡' di pojok kiri atas atau 
  
 ##Pedoman Untuk Kembali ke Halaman Utama
 
-Anda dapat kembali ke halaman utama
+Anda dapat kembali ke halaman utama dengan mengklik back button sebanyak 1 kali.
 
 ##Pedoman Untuk Keluar dari Aplikasi
 
