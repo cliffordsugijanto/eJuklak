@@ -1,6 +1,6 @@
 #Use Case
 
-![](usecase.jpg)
+![](UseCase Diagram ejuklak.jpg)
 
 Penjelasan singkat usecase diagram : 
 
