@@ -4,26 +4,27 @@
 
 Menu Samping bisa digunakan dengam menekan symbol '≡' di pojok kiri atas atau bisa menge-slide layar Anda Dari pinggir kiri ke kanan.
 
-![](Screenshot1.jpg)
+![](images/Screenshot1.jpg)
 
 Menu Samping muncul.
 
-![](Screenshot2.jpg)
+![](images/Screenshot2.jpg)
 
 ##Panduan Untuk Melihat Gambar
 
  1. Klik gambar yang ingin dilihat lebih jelas
 
- ![](Screenshot3.jpg)
+ ![](images/Screenshot3.jpg)
  
  Gambar sudah diperbesar
 
- ![](Screenshot4.jpg)
+ ![](images/Screenshot4.jpg)
 
  2. Ketika sudah selesai melihat gambar. Anda dapat memilih 2 cara keluar dari halaman :
   + Cara pertama dengan men-touch gambarnya, dan halaman berganti ke halaman sebelumnya
   + Cara kedua dengan mengklik back button dan kembali ke halaman utama
   
+![](images/Screenshot5.jpg)
  
 ##Panduan Untuk Kembali ke Halaman Utama
 
